@@ -1,0 +1,76 @@
+= Spending =
+
+Welcome to spending.git.  This repository contains records of how
+Student Robotics's money has been spent.
+
+== Transactions ==
+
+A "transaction" is an event when some money leaves the Student
+Robotics account.  A transaction appears as a single row on our bank
+statement.
+
+spending.git contains detailed information about each transaction.
+Within spending.git, some transactions will be split into several
+transactions.  There are frequent situations in which this make sense.
+For example, the following situations should result in transactions
+being split up:
+
+ 1. The transaction involves funds from multiple budget lines.
+ 2. The transaction involves multiple purchasing tickets.
+
+From this point onwards, the _whole_set_ of transactions relating to
+one line of our bank statement will be referred to as a "bank-level
+transaction".
+
+A transaction is represented by a YAML file containing the following
+set of mandatory properties:
+
+ - summary: Single line description of the transaction.
+ - description: Long description of the transaction.
+ - budget: The budget line that this transaction is from.
+ - cost: The cost of this transaction.
+ - trac: The number of the relevant purchasing ticket in Trac
+
+The following set of properties are optional:
+
+ - inventory-items: A list of the inventory items that the transaction
+                    'created'.  If the transaction created inventory
+                    items, this is a mandatory property.
+ - cheque: The number of the cheque involved in the transaction.
+
+== Directory Structure: Transaction Filing ==
+
+So, you've created a set of transaction files.  Where should they go?
+
+Firstly, it depends on the state of the transaction.  Often we'll know
+that we've spent the money, but haven't yet got a statement from the
+bank telling us exactly when or how much left the account.  These
+transactions are "pending" and should therefore live in the "pending"
+subdirectory of spending.git.  Pending transactions can be put inside
+subdirectories of the pending directory if it's convenient.
+
+Once our bank has caught up with us, and we know the date of a
+transaction, the transaction file needs moving into another
+directory.  The location of this directory is influenced by two
+things:
+
+ 1) The date of the transaction.
+ 2) Whether the transaction was lumped together with some others into
+    a single bank-level transaction.
+
+If the transaction was not lumped together with others, it should be
+moved into a directory with the path:
+
+ /YYYY/MM/DD/
+
+(Where those are the year, month, and date...)
+
+If the transactions was lumped together with others, an extra level of
+hierarchy is added to perform this grouping:
+
+ /YYYY/MM/DD/NAME/
+
+Where "NAME" in the above can be replaced by a (very) short summary of
+why they're being split up (like one or two words).
+
+
