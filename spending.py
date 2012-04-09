@@ -20,6 +20,10 @@ class Transaction(object):
         self.cost = D( "%.2f" % y["cost"] )
         self.trac = y["trac"]
 
+        # Strip the '.yaml' off the end of the budget field if it's present
+        if self.budget[-5:] == ".yaml":
+            self.budget = self.budget[:-5]
+
 def load_transactions(root):
     root = os.path.abspath(root)
     transactions = []
