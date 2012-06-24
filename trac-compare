@@ -3,7 +3,7 @@ import sys, os, xmlrpclib, spending
 
 transactions = spending.load_transactions( "./" )
 p = xmlrpclib.ServerProxy("https://www.studentrobotics.org/trac/rpc")
-tickets = p.ticket.query( "component=purchasing&max=0" )
+tickets = p.ticket.query( "component=purchasing&max=0&resolution!=invalid&resolution!=wontfix&resolution!=duplicate" )
 
 counts = {}
 for t in tickets:
