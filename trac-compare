@@ -24,7 +24,7 @@ for tnum, count in counts.iteritems():
 missing.sort()
 
 if len(missing):
-    print "Trac tickets with no spending.git entry:"
+    print "{0} trac tickets with no spending.git entry:".format( len(missing) )
     for t in missing:
         print "{0:10} -- http://srobo.org/trac/ticket/{0}".format(t)
 
