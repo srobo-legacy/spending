@@ -5,3 +5,5 @@ description: >-
 budget: sr2013/kits/power/beagleboards
 cost: 99.59
 trac: 1243
+inventory-items:
+  - sr1YK29
