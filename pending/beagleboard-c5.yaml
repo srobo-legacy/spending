@@ -1,0 +1,7 @@
+summary: BeagleBoard C5 for testing
+description: >-
+  A BeagleBoard C5 from Mouser for testing for suitability for SR2013
+  kit.
+budget: sr2013/kits/power/beagleboards
+cost: 99.59
+trac: 1243
