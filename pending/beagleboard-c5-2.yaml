@@ -2,7 +2,7 @@ summary: BeagleBoard C5s
 description: >-
   BeagleBoard C5s from Mouser for SR2013 kit.
 budget: sr2013/kits/power/beagleboards
-cost: 2,120.83
+cost: 2120.83
 trac: 1309
 inventory-items:
   - sr1GP23
