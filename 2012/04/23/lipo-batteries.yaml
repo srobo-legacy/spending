@@ -4,6 +4,7 @@ description: >-
 budget: sr2012/kits/batteries
 cost: 1482.99
 trac: 856
+cheque: 100118
 inventory-items:
   - sr1GG1C
   - sr1GH1B
