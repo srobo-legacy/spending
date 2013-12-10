@@ -1,6 +1,7 @@
 summary: Pay SUSU for SR2013 building hire
 description: >-
   Building hire
-budget: ---
+budget: sr2013/competition/venue-hire
 cost: 850.00
 trac: 1748
+cheque: 100172
