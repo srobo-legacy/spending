@@ -59,11 +59,12 @@
     Assets:Barclays                        £34662.51
     Income:Motorola Solutions Foundation
 
-2012/04/23 Deans connectors
+2012/04/23 * Deans connectors
     Expenses:sr2012:kits:battery-cables       £51.54
     Liabilities:unknown
     ; trac: #864
     ; name: deans-connectors
+    ; receipt: ./receipts/2012/04/modelsport.pdf
 
 2012/04/23 Cardboard tubes for Alu shipment
     Expenses:sr2012:emergency-shipping        £31.00
