@@ -404,7 +404,9 @@
     ; cheque: 100135
 
 2012/08/03 * Cheque 100136
-    Liabilities:rspanton                     £579.42
+    Liabilities:rspanton                     £380
+    ; rspanton was overpaid for ticket #1245 by this amount:
+    Assets:Reimbursements:rspanton		£199.42
     Assets:Barclays
     ; cheque: 100136
 
@@ -498,9 +500,10 @@
     Assets:Barclays
     ; cheque: 100139
 
-2012/10/08 ! 1245 return        ; Mysterious payment from rspanton
+2012/10/08 * 1245 return        ; Return of overpayment for #1245
     Assets:Barclays			£199.42
-    Income:rspanton
+    Assets:Reimbursements:rspanton
+    ; trac: #1245
 
 2012/10/12 Team budget spending for qmc
     Expenses:sr2012:team-budget               £62.16
