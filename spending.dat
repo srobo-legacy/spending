@@ -12,7 +12,7 @@
 
 2012/01/18 Battery chargers
     Expenses:sr2012:kits:battery-chargers    £1097.10
-    Liabilities:unknown
+    Liabilities:rspanton
     ; trac: #845
     ; name: battery-chargers
 
@@ -21,8 +21,8 @@
     Assets:Barclays
     ; cheque: 100115
 
-2012/01/23 ! Cheque 100116
-    Liabilities:unknown                     £1097.10
+2012/01/23 * Cheque 100116
+    Liabilities:rspanton                     £1097.10
     Assets:Barclays
     ; cheque: 100116
 
