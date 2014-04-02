@@ -168,8 +168,8 @@
     ; trac: #858
     ; name: battery-cables-farnell
 
-2012/04/23 ! Cheque 100118
-    Liabilities:unknown                     £2326.53
+2012/04/23 * Cheque 100118
+    Liabilities:rspanton                     £2326.53
     Assets:Barclays
     ; cheque: 100118
 
