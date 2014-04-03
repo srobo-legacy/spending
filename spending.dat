@@ -1647,14 +1647,15 @@
     ; trac: #2048
     ; name: international-shipping-2014
 
-2014/01/28 Newbury Racecourse  ;Deposit for venue hire
-    Expenses:sr2014:competition:venue-hire    £3795.00
+2014/01/28 * Newbury Racecourse  ;Deposit for venue hire
+    Expenses:sr2014:competition:venue-hire    £3036
     Liabilities:Newbury Racecourse
     ; trac: #2229
     ; name: newbury-hire-deposit
+    ; receipt: ./receipts/2014/01/newbury-racecourse-deposit.pdf
 
 2014/01/28 * Cheque 100197
-    Liabilities:Newbury Racecourse          £3795.00
+    Liabilities:Newbury Racecourse          £3795
     Assets:Barclays
     ; cheque: 100197
 
