@@ -1658,7 +1658,31 @@
     Assets:Barclays
     ; cheque: 100197
 
+2014/02/24 * SR2014 Trophies
+    Expenses:sr2014:competition:prizes		£112.91
+    Liabilities:tjones
+    ; trac: #2300
+    ; receipt: ./receipts/2014/02/trophies.pdf
 
+2014/03/17 * PPL Licence
+    Expenses:sr2014:competition:music-ppl	£58.88
+    Liabilities:PPL
+    ; trac: #2336
+    ; receipt: ./receipts/2014/04/ppl.pdf
+    ; due: 2014/05/01
 
+2014/04/01 ! PRS Licence
+    Expenses:sr2012:competition:music-prs	£137.79
+    Liabilities:PRS
+    ; trac: #2368
 
+2014/03/26=2014/04/01 * jmorse
+    Liabilities:jmorse				£469.85
+    Assets:Barclays
+    ; cheque: 100198
+
+2014/03/26 ! tjones
+    Liabilities:tjones				£112.91
+    Assets:Barclays
+    ; cheque: 100199
 
