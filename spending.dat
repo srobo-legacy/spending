@@ -1102,7 +1102,7 @@
     Assets:Barclays
     ; cheque: 100171
 
-2013/06/19 C270 webcam and Wheels and castors etc for TWG Team Budget
+2013/06/19 Team TWG
     Expenses:sr2013:team-budget               £66.85
     Liabilities:Tunbridge Wells School for Boys
     ; trac: #1657
@@ -1209,7 +1209,7 @@
     ; trac: #1841
     ; name: sr2014-motor-components-verical
 
-2013/08/29 Nuts and bolts for SR2014 cases (nylon)
+2013/08/29 Nuts and bolts for SR2014 cases
     Expenses:sr2014:kits:case-assemble        £73.28
     Liabilities:rbarlow
     ; trac: #1853
@@ -1221,7 +1221,7 @@
     ; trac: #1741
     ; name: mcv4b_prototype_components
 
-2013/08/29 Competition participation and prize certificates (400x and 60x resp.) for Giving out
+2013/08/29 Competition certificates
     Expenses:sr2013:competition:prizes       £268.80
     Liabilities:rbarlow
     ; trac: #1613
@@ -1583,7 +1583,7 @@
     ; trac: #1992
     ; name: sr2014-ruggeduino-case-fixings
 
-2013/11/04 SD cards for BeagleBoards.  Prices are based on a quote that eBuyer have sent to me.  Valid until 3pm tomorrow.
+2013/11/04 SD cards for BeagleBoards
     Expenses:sr2014:kits:sd-cards            £428.19
     Liabilities:rspanton
     ; trac: #1960
@@ -1607,13 +1607,13 @@
     ; trac: #1961
     ; name: sr2014-sd-adapters
 
-2013/11/04 Pallets for shipping.  Includes delivery and VAT.
+2013/11/04 Pallets for shipping
     Expenses:sr2014:kickstart:shipping:pallets      £15.00
     Liabilities:rspanton
     ; trac: #1957
     ; name: sr2014-pallets
 
-2013/11/04 Bubble wrap for packaging kit in.  Free delivery.
+2013/11/04 Bubble wrap for packaging kit in
     Expenses:sr2014:bubble-wrap               £81.70
     Liabilities:rspanton
     ; trac: #1953
