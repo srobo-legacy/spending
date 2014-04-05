@@ -4,17 +4,18 @@
     Assets:Barclays                         £2130.12
     Equity:Opening Balance
 
-2012/01/18 Payment for the notarisation of the charity equivalency forms
+2012/01/18 * Payment for the notarisation of the charity equivalency forms
     Expenses:sr2012:notarisation              £75.00
     Liabilities:rspanton
     ; trac: #1029
     ; name: notary
 
-2012/01/18 Battery chargers
+2012/01/18 * Battery chargers
     Expenses:sr2012:kits:battery-chargers    £1097.10
     Liabilities:rspanton
     ; trac: #845
     ; name: battery-chargers
+    ; receipt: ./2012/01/dhl-invoice.pdf.gpg
 
 2012/01/23 * Cheque 100115
     Liabilities:rspanton                       £75.00
@@ -26,25 +27,25 @@
     Assets:Barclays
     ; cheque: 100116
 
-2012/03/14 Really Useful Boxes to hold the kits
+2012/03/14 * Really Useful Boxes to hold the kits
     Expenses:sr2012:kits:box                 £209.75
     Liabilities:rbarlow
     ; trac: #875
     ; name: kit-rubs
 
-2012/03/14 Aluminium angle for the mech kits
+2012/03/14 * Aluminium angle for the mech kits
     Expenses:sr2012:kits:mech:alu-angle      £247.99
     Liabilities:rbarlow
     ; trac: #880
     ; name: mech-alu
 
-2012/03/14 USB keys for the kits
+2012/03/14 * USB keys for the kits
     Expenses:sr2012:kits:usb-keys             £29.94
     Liabilities:rbarlow
     ; trac: #871
     ; name: kit-usb-keys
 
-2012/03/14 USB hubs for the kits
+2012/03/14 * USB hubs for the kits
     Expenses:sr2012:kits:usb-hubs             £61.73
     Liabilities:rbarlow
     ; trac: #871
@@ -66,7 +67,7 @@
     ; name: deans-connectors
     ; receipt: ./receipts/2012/04/modelsport.pdf
 
-2012/04/23 Cardboard tubes for Alu shipment
+2012/04/23 * Cardboard tubes for Alu shipment
     Expenses:sr2012:emergency-shipping        £31.00
     Liabilities:rspanton
     ; trac: #929
@@ -79,91 +80,91 @@
     ; name: rspanton-krakow
     ; receipt: ./receipts/2012/04/krakow-hotel.pdf
 
-2012/04/23 Cable ties for the mech kit
+2012/04/23 * Cable ties for the mech kit
     Expenses:sr2012:kits:mech:cableties       £59.10
     Liabilities:rbarlow
     ; trac: #886
     ; name: kit-cable-ties
 
-2012/04/23 Cardboard boxes for shipping
+2012/04/23 * Cardboard boxes for shipping
     Expenses:sr2012:emergency-shipping        £20.00
     Liabilities:rbarlow
     ; trac: #895
     ; name: shipping-boxes
 
-2012/04/23 Shipping of kit to HZW
+2012/04/23 * Shipping of kit to HZW
     Expenses:sr2012:emergency-shipping        £35.99
     Liabilities:rbarlow
     ; trac: #934
     ; name: hzw-shipping
 
-2012/04/23 Cardboard boxes for tokens
+2012/04/23 * Cardboard boxes for tokens
     Expenses:sr2012:tokens                    £47.95
     Liabilities:rspanton
     ; trac: #872
     ; name: token-boxes
 
-2012/04/23 Mini-USB cables for kit
+2012/04/23 * Mini-USB cables for kit
     Expenses:sr2012:kits:usb-cables           £11.64
     Liabilities:rbarlow
     ; trac: #860
     ; name: mini-usb-cables
 
-2012/04/23 Stretch wrap and fragile tape
+2012/04/23 * Stretch wrap and fragile tape
     Expenses:sr2012:emergency-shipping        £18.87
     Liabilities:rbarlow
     ; trac: #897
     ; name: stretch-wrap-tape
 
-2012/04/23 Wire for SR2012 kits
+2012/04/23 * Wire for SR2012 kits
     Expenses:sr2012:kits:wire                £195.07
     Liabilities:rbarlow
     ; trac: #874
     ; name: kit-wire
 
-2012/04/23 Power cables for battery chargers
+2012/04/23 * Power cables for battery chargers
     Expenses:sr2012:kits:battery-chargers      £93.41
     Liabilities:rspanton
     ; trac: #847
     ; name: battery-charger-cables
 
-2012/04/23 Lithium-ion polymer batteries
+2012/04/23 * Lithium-ion polymer batteries
     Expenses:sr2012:kits:batteries          £1482.99
     Liabilities:rspanton
     ; trac: #856
     ; name: lipo-batteries
 
-2012/04/23 Shipping of a replacement power board to EMM
+2012/04/23 * Shipping of a replacement power board to EMM
     Expenses:sr2012:emergency-shipping        £15.31
     Liabilities:rbarlow
     ; trac: #1045
     ; name: emm-rep-power-shipping
 
-2012/04/23 PPL licence for SR2012 competition
+2012/04/23 * PPL licence for SR2012 competition
     Expenses:sr2012:competition:music-ppl      £55.46
     Liabilities:rspanton
     ; trac: #1148
     ; name: ppl-license
 
-2012/04/23 Kit shipping through despatchbay
+2012/04/23 * Kit shipping through despatchbay
     Expenses:sr2012:emergency-shipping        £61.80
     Liabilities:rspanton
     ; trac: #933
     ; name: despatch-bay
 
-2012/04/23 Shipping of kit to QMC
+2012/04/23 * Shipping of kit to QMC
     Expenses:sr2012:emergency-shipping        £35.39
     Liabilities:rspanton
     ; trac: #1009
     ; name: qmc-shipping
 
-2012/04/23 Shipping of a replacement motor board to BWS
+2012/04/23 * Shipping of a replacement motor board to BWS
     Expenses:sr2012:emergency-shipping         £5.90
     Liabilities:rbarlow
     ; trac: #1125
     ; name: bws-rep-motor-shipping
 
-2012/04/23 Wire and plugs for battery cables
+2012/04/23 * Wire and plugs for battery cables
     Expenses:sr2012:kits:battery-cables      £111.22
     Liabilities:rspanton
     ; trac: #858
@@ -179,56 +180,56 @@
     Assets:Barclays
     ; cheque: 100119
 
-2012/05/14 Monitors for arena displays
+2012/05/14 * Monitors for arena displays
     Expenses:sr2012:competition:arena:displays:brackets      £73.71
     Liabilities:abusse
     ; trac: #1134
     ; name: arena-displays-brackets
 
-2012/05/14 Misc items for kickstart
+2012/05/14 * Misc items for kickstart
     Expenses:sr2012:kickstart:misc-bits       £24.10
     Liabilities:abusse
     ; trac: #957
     ; name: kickstart-misc
 
-2012/05/14 Chocolate prizes
+2012/05/14 * Chocolate prizes
     Expenses:sr2012:competition:prizes        £32.00
     Liabilities:abusse
     ; trac: #1194
     ; name: chocolates
 
-2012/05/14 BeagleBoards for arena displays
+2012/05/14 * BeagleBoards for arena displays
     Expenses:sr2012:competition:arena:displays:beagleboards     £864.00
     Liabilities:abusse
     ; trac: #1134
     ; name: arena-displays-beagleboards
 
-2012/05/14 Paper for competition certificates
+2012/05/14 * Paper for competition certificates
     Expenses:sr2012:competition:prizes        £12.13
     Liabilities:abusse
     ; trac: #1165
     ; name: certificate-paper
 
-2012/05/14 Monitors for arena displays
+2012/05/14 * Monitors for arena displays
     Expenses:sr2012:competition:arena:displays:monitors     £588.60
     Liabilities:abusse
     ; trac: #1134
     ; name: arena-displays-monitors
 
-2012/05/14 Andy's mentoring travels
+2012/05/14 * Andy's mentoring travels
     Expenses:sr2012:mentor-travel             £75.00
     Liabilities:abusse
     ; trac: #1205
     ; name: abusse-travel
 
-2012/05/14 Pirate ship parts
+2012/05/14 * Pirate ship parts
     Expenses:sr2012:competition:arena:pirate-ships      £90.41
     Liabilities:abusse
     ; trac: #1204
     ; name: pirate-ship-parts
 
-2012/05/14 Carpet tiles for the arena
-    Expenses:sr2012:competition:arena:carpeting     £885.06
+2012/05/14 * Carpet tiles for the arena
+    Expenses:sr2012:competition:arena:carpeting     £894
     Liabilities:abusse
     ; trac: #956
     ; name: carpet-tiles
@@ -238,7 +239,7 @@
     Assets:Barclays
     ; cheque: 100122
 
-2012/05/30 Cable hire for competition
+2012/05/30 * Cable hire for competition
     Expenses:sr2012:competition:cabling      £294.85
     Liabilities:tbennellick
     ; trac: #1197
@@ -249,7 +250,7 @@
     Assets:Barclays
     ; cheque: 100121
 
-2012/06/07 Trophies
+2012/06/07 * Trophies
     Expenses:sr2012:competition:trophies     £121.24
     Liabilities:ckirkham
     ; trac: #1175
@@ -260,13 +261,13 @@
     Assets:Barclays
     ; cheque: 100120
 
-2012/06/20 Some nyloc nuts and washers for the mech kit
+2012/06/20 * Some nyloc nuts and washers for the mech kit
     Expenses:sr2012:kits:mech:nuts_and_bolts      £49.70
     Liabilities:tscarsbrook
     ; trac: #885
     ; name: mech-nuts-and-bolts-screwfix
 
-2012/06/20 Hinges and springs for the mech kits
+2012/06/20 * Hinges and springs for the mech kits
     Expenses:sr2012:kits:mech:misc            £81.42
     Liabilities:tscarsbrook
     ; trac: #885
@@ -277,7 +278,7 @@
     Assets:Barclays
     ; cheque: 100129
 
-2012/06/21 Team budget spending for both sen teams
+2012/06/21 * Team budget spending for both sen teams
     Expenses:sr2012:team-budget              £100.05
     Liabilities:sr2012-sen
     ; trac: #1227
@@ -288,7 +289,7 @@
     Assets:Barclays
     ; cheque: 100124
 
-2012/06/22 Team budget spending for both bws teams
+2012/06/22 * Team budget spending for both bws teams
     Expenses:sr2012:team-budget              £152.29
     Liabilities:sr2012-bws
     ; trac: #1226
@@ -299,25 +300,25 @@
     Assets:Barclays
     ; cheque: 100123
 
-2012/06/26 Bucket related things for acottrell
+2012/06/26 * Bucket related things for acottrell
     Expenses:sr2012:competition:arena:pirate-ships      £70.75
     Liabilities:acottrell
     ; trac: #1225
     ; name: accottrell-ships
 
-2012/06/26 Travel to and from schools for accottrell
+2012/06/26 * Travel to and from schools for accottrell
     Expenses:sr2012:mentor-travel            £168.81
     Liabilities:acottrell
     ; trac: #1224
     ; name: accottrell-travel
 
-2012/06/26 Team budget spending for clf2
+2012/06/26 * Team budget spending for clf2
     Expenses:sr2012:team-budget               £70.00
     Liabilities:Clifton High School
     ; trac: #1230
     ; name: clf2-team-budget
 
-2012/06/26 Team budget spending for clf
+2012/06/26 * Team budget spending for clf
     Expenses:sr2012:team-budget               £67.84
     Liabilities:Clifton High School
     ; trac: #1230
@@ -338,7 +339,7 @@
     Assets:Barclays
     ; cheque: 100131
 
-2012/06/27 Team budget spending for ttn
+2012/06/27 * Team budget spending for ttn
     Expenses:sr2012:team-budget               £59.81
     Liabilities:sr2012-ttn
     ; trac: #1229
@@ -353,7 +354,7 @@
     Assets:Barclays				£54.60
     Income:Barclays
 
-2012/07/16 Cups at the competition
+2012/07/16 * Cups at the competition
     Expenses:sr2012:competition:food          £25.00
     Liabilities:RAG
     ; trac: #1199
@@ -364,37 +365,37 @@
     Assets:Barclays
     ; cheque: 100128
 
-2012/08/03 Bags for safely charging batteries in
+2012/08/03 * Bags for safely charging batteries in
     Expenses:sr2013:kits:battery-bags        £380.00
     Liabilities:rspanton
     ; trac: #1245
     ; name: battery-bags
 
-2012/08/03 Posters for schools
+2012/08/03 * Posters for schools
     Expenses:sr2012:promotion                 £70.00
     Liabilities:jmorse
     ; trac: #846
     ; name: posters
 
-2012/08/03 Kit shipping
+2012/08/03 * Kit shipping
     Expenses:sr2012:emergency-shipping       £411.85
     Liabilities:jmorse
     ; trac: #932
     ; name: kit-shipping
 
-2012/08/03 Wristbands for the SR2012 competition
+2012/08/03 * Wristbands for the SR2012 competition
     Expenses:sr2012:competition:wristbands     £312.00
     Liabilities:jmorse
     ; trac: #1159
     ; name: wristbands
 
-2012/08/03 Scaff order for SR2012
+2012/08/03 * Scaff order for SR2012
     Expenses:sr2012:competition:arena:scaff-hire     £116.92
     Liabilities:jmorse
     ; trac: #1164
     ; name: scaff-order
 
-2012/08/03 Gaffa and insulating tape for the competition
+2012/08/03 * Gaffa and insulating tape for the competition
     Expenses:sr2012:competition:tape         £138.82
     Liabilities:jmorse
     ; trac: #1166
@@ -412,7 +413,7 @@
     Assets:Barclays
     ; cheque: 100136
 
-2012/08/13 Team budget spending for mfg
+2012/08/13 * Team budget spending for mfg
     Expenses:sr2012:team-budget               £78.29
     Liabilities:sr2012-mfg
     ; trac: #1228
@@ -423,7 +424,7 @@
     Assets:Barclays
     ; cheque: 100125
 
-2012/08/30 Team budget spending for qeh
+2012/08/30 * Team budget spending for qeh
     Expenses:sr2012:team-budget               £75.03
     Liabilities:sr2012-qeh
     ; trac: #1248
@@ -434,7 +435,7 @@
     Assets:Barclays
     ; cheque: 100132
 
-2012/09/18 Purchase of JointIO boards
+2012/09/18 * Purchase of JointIO boards
     Expenses:sr2013:kits:jointio:assembly    £1230.72
     Liabilities:Garner Osbourne
     ; trac: #1287
@@ -445,19 +446,19 @@
     Assets:Barclays
     ; cheque: 100137
 
-2012/10/01 BeagleBoard C5s
+2012/10/01 * BeagleBoard C5s
     Expenses:sr2013:kits:power:beagleboards    £2120.83
     Liabilities:rspanton
     ; trac: #1309
     ; name: beagleboard-c5-2
 
-2012/10/01 18l kit boxes
+2012/10/01 * 18l kit boxes
     Expenses:sr2013:kits:box                 £480.99
     Liabilities:rspanton
     ; trac: #1263
     ; name: 18l-boxes
 
-2012/10/01 BeagleBoard C5 for testing
+2012/10/01 * BeagleBoard C5 for testing
     Expenses:sr2013:kits:power:beagleboards      £99.59
     Liabilities:rspanton
     ; trac: #1243
@@ -468,13 +469,13 @@
     Assets:Barclays
     ; cheque: 100138
 
-2012/10/02 Garner Osborne  ;Purchase of motor boards
+2012/10/02 * Garner Osborne  ;Purchase of motor boards
     Expenses:sr2013:kits:motor:assembly     £1958.35
     Assets:Barclays
     ; trac: #1341
     ; name: motor-boards
 
-2012/10/03 Team budget spending for gmr
+2012/10/03 * Team budget spending for gmr
     Expenses:sr2012:team-budget               £82.50
     Liabilities:sr2012-gmr
     ; trac: #1247
@@ -485,13 +486,13 @@
     Assets:Barclays
     ; cheque: 100133
 
-2012/10/08 Purchase of power boards
+2012/10/08 * Purchase of power boards
     Expenses:sr2013:kits:power:assembly     £2877.22
     Liabilities:jmorse
     ; trac: #1342
     ; name: power-boards
 
-2012/10/08 Purchase of servo boards
+2012/10/08 * Purchase of servo boards
     Expenses:sr2013:kits:servo:assembly     £1101.73
     Liabilities:jmorse
     ; trac: #1306
@@ -502,12 +503,12 @@
     Assets:Barclays
     ; cheque: 100139
 
-2012/10/08 1245 return        ; Return of overpayment for #1245
+2012/10/08 * 1245 return        ; Return of overpayment for #1245
     Assets:Barclays			£199.42
     Assets:Reimbursements:rspanton
     ; trac: #1245
 
-2012/10/12 Team budget spending for qmc
+2012/10/12 * Team budget spending for qmc
     Expenses:sr2012:team-budget               £62.16
     Liabilities:sr2012-qmc
     ; trac: #1343
@@ -518,109 +519,109 @@
     Assets:Barclays
     ; cheque: 100140
 
-2012/10/21 jhacker  ;Edible prizes
+2012/10/21 * jhacker  ;Edible prizes
     Expenses:sr2013:competition:prizes        £13.40
     Liabilities:jhacker
     ; trac: #1678
     ; name: edible-2013-prizes
 
-2012/10/21 jmorse  ;USB memory sticks for SR2013
+2012/10/21 * jmorse  ;USB memory sticks for SR2013
     Expenses:sr2013:kits:usb-keys            £215.65
     Liabilities:jmorse
     ; trac: #1359
     ; name: usb-sticks
 
-2012/11/19 SRIC cables for kits
+2012/11/19 * SRIC cables for kits
     Expenses:sr2013:kits:sric-cables          £64.08
     Liabilities:jmorse
     ; trac: #1368
     ; name: sric
 
-2012/11/19 Power switches
+2012/11/19 * Power switches
     Expenses:sr2013:kits:power:components      £39.06
     Liabilities:jmorse
     ; trac: #1353
     ; name: power-switch
 
-2012/11/19 Nuts and bolts for board assembly
+2012/11/19 * Nuts and bolts for board assembly
     Expenses:sr2013:kits:case-assemble        £32.16
     Liabilities:jmorse
     ; trac: #1353
     ; name: nuts-and-bolts
 
-2012/11/19 Camcons
+2012/11/19 * Camcons
     Expenses:sr2013:kits:connectors          £288.00
     Liabilities:jmorse
     ; trac: #1353
     ; name: camcons
 
-2012/11/19 Power board spacers
+2012/11/19 * Power board spacers
     Expenses:sr2013:kits:power:components      £23.16
     Liabilities:jmorse
     ; trac: #1353
     ; name: board-spacers
 
-2012/11/19 Aluminium angle
+2012/11/19 * Aluminium angle
     Expenses:sr2013:kits:mech:alu-angle      £325.73
     Liabilities:jmorse
     ; trac: #1366
     ; name: alu-angle
 
-2012/11/19 Webcams for SR2013
+2012/11/19 * Webcams for SR2013
     Expenses:sr2013:kits:webcam               £98.94
     Liabilities:jmorse
     ; trac: #1371
     ; name: jmorse-webcams
 
-2012/11/19 Bits and bobs for mech kits
+2012/11/19 * Bits and bobs for mech kits
     Expenses:sr2013:kits:mech:bits           £624.38
     Liabilities:jmorse
     ; trac: #1369
     ; name: mech-bits
 
-2012/11/19 Beagleboard headers
+2012/11/19 * Beagleboard headers
     Expenses:sr2013:kits:power:components      £88.56
     Liabilities:jmorse
     ; trac: #1353
     ; name: beagleboard-headers
 
-2012/11/19 Wires for kits
+2012/11/19 * Wires for kits
     Expenses:sr2013:kits:wire                £170.10
     Liabilities:jmorse
     ; trac: #1353
     ; name: wire
 
-2012/11/19 USB hubs for kits
+2012/11/19 * USB hubs for kits
     Expenses:sr2013:kits:usb-hubs            £266.00
     Liabilities:jmorse
     ; trac: #1356
     ; name: usb-hubs
 
-2012/11/19 Power board LCDs
+2012/11/19 * Power board LCDs
     Expenses:sr2013:kits:power:lcds          £592.60
     Liabilities:jmorse
     ; trac: #1355
     ; name: power-board-lcds
 
-2012/11/19 Rotary encoder knobs
+2012/11/19 * Rotary encoder knobs
     Expenses:sr2013:kits:power:components      £21.00
     Liabilities:jmorse
     ; trac: #1353
     ; name: rotary-encoder
 
-2012/11/19 Battery velcro
+2012/11/19 * Battery velcro
     Expenses:sr2013:kits:battery:velcro       £88.46
     Liabilities:jmorse
     ; trac: #1353
     ; name: battery-velcro
 
-2012/11/19 Fuses
+2012/11/19 * Fuses
     Expenses:sr2013:kits:power:components      £21.82
     Liabilities:jmorse
     ; trac: #1353
     ; name: power-fuses
 
-2012/11/19 Battery cables
+2012/11/19 * Battery cables
     Expenses:sr2013:kits:battery:cable        £49.49
     Liabilities:jmorse
     ; trac: #1353
@@ -631,7 +632,7 @@
     Assets:Barclays
     ; cheque: 100141
 
-2013/01/29 Payment for the filming of the SR2012 competition
+2013/01/29 * Payment for the filming of the SR2012 competition
     Expenses:sr2012:competition:videoing     £840.00
     Liabilities:Ian Lynn
     ; trac: #1206
@@ -642,19 +643,19 @@
     Assets:Barclays
     ; cheque: 100142
 
-2013/02/08 Customs charge for beagleboard cases
+2013/02/08 * Customs charge for beagleboard cases
     Expenses:sr2012:competition:arena:displays:case      £41.60
     Liabilities:tscarsbrook
     ; trac: #1236
     ; name: beagleboard-case-customs
 
-2013/02/08 2013 tokens
+2013/02/08 * 2013 tokens
     Expenses:sr2013:tokens                    £77.96
     Liabilities:tscarsbrook
     ; trac: #1373
     ; name: tokens
 
-2013/02/08 Webcams for SR2013
+2013/02/08 * Webcams for SR2013
     Expenses:sr2013:kits:webcam               £44.19
     Liabilities:tscarsbrook
     ; trac: #1371
@@ -665,7 +666,7 @@
     Assets:Barclays
     ; cheque: 100147
 
-2013/02/11 Webcams for SR2013
+2013/02/11 * Webcams for SR2013
     Expenses:sr2013:kits:webcam               £97.94
     Liabilities:ckirkham
     ; trac: #1371
@@ -676,37 +677,37 @@
     Assets:Barclays
     ; cheque: 100143
 
-2013/02/14 Compartment boxes for the mech kit
+2013/02/14 * Compartment boxes for the mech kit
     Expenses:sr2012:kits:mech:misc            £55.80
     Liabilities:rbarlow
     ; trac: #883
     ; name: mech-compartment-boxes
 
-2013/02/14 SRIC cables for kits
+2013/02/14 * SRIC cables for kits
     Expenses:sr2012:kits:sric-cables          £20.42
     Liabilities:rbarlow
     ; trac: #849
     ; name: sric-cables
 
-2013/02/14 Headers for the beagleboards
+2013/02/14 * Headers for the beagleboards
     Expenses:sr2012:kits:repairs              £37.44
     Liabilities:rbarlow
     ; trac: #884
     ; name: beagleboard-headers
 
-2013/02/14 RC car for big bang fair
+2013/02/14 * RC car for big bang fair
     Expenses:sr2012:promotion                 £27.98
     Liabilities:rbarlow
     ; trac: #935
     ; name: big-bang-fair-rc-car
 
-2013/02/14 Webcams for SR2013
+2013/02/14 * Webcams for SR2013
     Expenses:sr2013:kits:webcam               £89.95
     Liabilities:rbarlow
     ; trac: #1371
     ; name: rbarlow-webcams
 
-2013/02/14 A selection of nuts, bolts and washers for the mech kit
+2013/02/14 * A selection of nuts, bolts and washers for the mech kit
     Expenses:sr2012:kits:mech:nuts_and_bolts     £279.30
     Liabilities:rbarlow
     ; trac: #883
@@ -717,13 +718,13 @@
     Assets:Barclays
     ; cheque: 100148
 
-2013/02/18 Cableties for case construction
+2013/02/18 * Cableties for case construction
     Expenses:sr2013:kits:case-assemble         £1.43
     Liabilities:jmorse
     ; trac: #1363
     ; name: case-cableties
 
-2013/02/18 Cableties for kits
+2013/02/18 * Cableties for kits
     Expenses:sr2013:kits:mech:bits            £72.36
     Liabilities:jmorse
     ; trac: #1363
@@ -738,61 +739,61 @@
     Assets:Barclays                        £31281.36
     Income:Motorola Solutions Foundation
 
-2013/02/20 Fuses and fuse holders
+2013/02/20 * Fuses and fuse holders
     Expenses:dev:prototyping                  £10.63
     Liabilities:abusse
     ; trac: #1262
     ; name: fuses
 
-2013/02/20 VAT for the display brackets
+2013/02/20 * VAT for the display brackets
     Expenses:sr2012:competition:arena:displays:brackets      £14.74
     Liabilities:abusse
     ; trac: #1237
     ; name: bracket-vat
 
-2013/02/20 Shipping for the display monitors
+2013/02/20 * Shipping for the display monitors
     Expenses:sr2012:competition:arena:displays:monitors      £17.80
     Liabilities:abusse
     ; trac: #1238
     ; name: monitor-shipping
 
-2013/02/20 Cases for jointio boards
+2013/02/20 * Cases for jointio boards
     Expenses:sr2013:kits:jointio:cases       £156.96
     Liabilities:abusse
     ; trac: #1266
     ; name: jointio-cases
 
-2013/02/20 Cases for SR2013 servo boards
+2013/02/20 * Cases for SR2013 servo boards
     Expenses:sr2013:kits:servo:cases         £212.16
     Liabilities:abusse
     ; trac: #1325
     ; name: servo-cases
 
-2013/02/20 BB XM cases
+2013/02/20 * BB XM cases
     Expenses:sr2012:competition:arena:displays:case     £192.89
     Liabilities:abusse
     ; trac: #1240
     ; name: beagleboard-xm-cases
 
-2013/02/20 Glue for the tokens
+2013/02/20 * Glue for the tokens
     Expenses:sr2012:tokens                     £7.96
     Liabilities:abusse
     ; trac: #1208
     ; name: token-glue
 
-2013/02/20 Cases for SR2013 power boards
+2013/02/20 * Cases for SR2013 power boards
     Expenses:sr2013:kits:power:cases         £547.20
     Liabilities:abusse
     ; trac: #1325
     ; name: power-cases
 
-2013/02/20 HDMI-VGA cables
+2013/02/20 * HDMI-VGA cables
     Expenses:sr2012:competition:arena:displays:monitorcable      £18.29
     Liabilities:abusse
     ; trac: #1239
     ; name: monitor-cables
 
-2013/02/20 Cases for SR2013 motor boards
+2013/02/20 * Cases for SR2013 motor boards
     Expenses:sr2013:kits:motor:cases         £276.00
     Liabilities:abusse
     ; trac: #1325
@@ -803,7 +804,7 @@
     Assets:Barclays
     ; cheque: 100150
 
-2013/02/25 Various refreshments for the competition
+2013/02/25 * Various refreshments for the competition
     Expenses:sr2012:competition:food          £34.57
     Liabilities:plaw
     ; trac: #1174
@@ -814,7 +815,7 @@
     Assets:Barclays
     ; cheque: 100145
 
-2013/04/12 Webcams for SR2013
+2013/04/12 * Webcams for SR2013
     Expenses:sr2013:kits:webcam               £89.95
     Liabilities:senglish
     ; trac: #1371
@@ -825,7 +826,7 @@
     Assets:Barclays
     ; cheque: 100144
 
-2013/04/18 Gearbox and Wheels and castors for CLY Team Budget
+2013/04/18 * Gearbox and Wheels and castors for CLY Team Budget
     Expenses:sr2013:team-budget               £75.00
     Liabilities:sr2013-cly
     ; trac: #1662
@@ -836,13 +837,13 @@
     Assets:Barclays
     ; cheque: 100156
 
-2013/04/19 Purchase trophies for sr2013 competition
+2013/04/19 * Purchase trophies for sr2013 competition
     Expenses:sr2013:competition:prizes       £113.76
     Liabilities:tjones
     ; trac: #1609
     ; name: sr2013-trophies
 
-2013/04/19 Servo and Motor etc for SWI Team Budget
+2013/04/19 * Servo and Motor etc for SWI Team Budget
     Expenses:sr2013:team-budget               £75.00
     Liabilities:sr2013-swi
     ; trac: #1668
@@ -858,36 +859,39 @@
     Assets:Barclays
     ; cheque: 100161
 
-2013/04/23 RCDs for competition cabling
+2013/04/23 * RCDs for competition cabling
     Expenses:sr2012:competition:cabling       £58.68
     Liabilities:rspanton
     ; trac: #1196
     ; name: comp-rcds
 
-2013/04/23 Bubble wrap for shipping
+2013/04/23 * Bubble wrap for shipping
     Expenses:sr2013:kits:bubble-wrap          £48.23
     Liabilities:rspanton
     ; trac: #1290
     ; name: bubble-wrap
 
-2013/04/23 Rope for the bucket barrier
+2013/04/23 * Rope for the bucket barrier
     Expenses:sr2012:competition:arena:barrier      £44.56
     Liabilities:rspanton
     ; trac: #1196
     ; name: comp-barrier
 
-2013/04/23 Fixings for the arena
+2013/04/23 * Fixings for the arena
     Expenses:sr2012:competition:cabling       £21.52
     Liabilities:rspanton
     ; trac: #1196
     ; name: comp-fixings
+    ; Note that this is charged against the wrong
+    ; budget line -- should have been sr2012/competition/fixings
+    ; The correct amount was charged in relation to this ticket though
 
 2013/04/23 * Cheque 100149
     Liabilities:rspanton                     £172.99
     Assets:Barclays
     ; cheque: 100149
 
-2013/04/25 Servos and Motors for BAM Team Budget
+2013/04/25 * Servos and Motors for BAM Team Budget
     Expenses:sr2013:team-budget               £75.00
     Liabilities:sr2013-bam
     ; trac: #1670
@@ -898,13 +902,13 @@
     Assets:Barclays
     ; cheque: 100163
 
-2013/05/01 Pulleys and Servo etc for BWS Team Budget
+2013/05/01 * Pulleys and Servo etc for BWS Team Budget
     Expenses:sr2013:team-budget               £67.32
     Liabilities:tleese
     ; trac: #1667
     ; name: Pulleys-and-Servo-etc
 
-2013/05/01 Switches, bearings, castors and gears, chains for GRD Team Budget
+2013/05/01 * Switches, bearings, castors and gears, chains for GRD Team Budget
     Expenses:sr2013:team-budget               £75.00
     Liabilities:Gordano school
     ; trac: #1658
@@ -920,31 +924,31 @@
     Assets:Barclays
     ; cheque: 100160
 
-2013/05/03 Competition radio hire
+2013/05/03 * Competition radio hire
     Expenses:sr2013:competition:radio-hire     £164.40
     Liabilities:alynn
     ; trac: #1598
     ; name: radio-hire-2013
 
-2013/05/03 SR2013 competition insurance
+2013/05/03 * SR2013 competition insurance
     Expenses:sr2013:competition:insurance     £152.00
     Liabilities:alynn
     ; trac: #1572
     ; name: comp-insurance
 
-2013/05/03 Cable clips and Rope and pulleys etc for MFG Team Budget
+2013/05/03 * Cable clips and Rope and pulleys etc for MFG Team Budget
     Expenses:sr2013:team-budget               £61.96
     Liabilities:sr2013-mfg
     ; trac: #1659
     ; name: Cable-clips-and-Rope-and-pulleys-etc
 
-2013/05/03 Wristbands for competition 2013
+2013/05/03 * Wristbands for competition 2013
     Expenses:sr2013:competition:wristbands     £312.00
     Liabilities:alynn
     ; trac: #1574
     ; name: wristband-2013
 
-2013/05/03 Scaff for arena
+2013/05/03 * Scaff for arena
     Expenses:sr2013:competition:arena:scaff-hire     £240.00
     Liabilities:alynn
     ; trac: #1573
@@ -960,7 +964,7 @@
     Assets:Barclays
     ; cheque: 100164
 
-2013/05/09 Electronic component for ALT Team Budget
+2013/05/09 * Electronic component for ALT Team Budget
     Expenses:sr2013:team-budget               £21.12
     Liabilities:sr2013-alt
     ; trac: #1664
@@ -971,13 +975,13 @@
     Assets:Barclays
     ; cheque: 100158
 
-2013/05/14 jhacker  ;Binbags for SR2013
+2013/05/14 * jhacker  ;Binbags for SR2013
     Expenses:sr2013:competition:refreshments       £2.72
     Liabilities:jhacker
     ; trac: #1678
     ; name: binbags-2013
 
-2013/05/14 DC motor and H Bridge for PLE
+2013/05/14 * DC motor and H Bridge for PLE
     Expenses:sr2013:team-budget               £44.14
     Liabilities:sr2013-ple
     ; trac: #1663
@@ -988,7 +992,7 @@
     Assets:Barclays
     ; cheque: 100157
 
-2013/05/15 Gearbox and wheels for STA Team Budget
+2013/05/15 * Gearbox and wheels for STA Team Budget
     Expenses:sr2013:team-budget               £50.11
     Liabilities:sr2013-sta
     ; trac: #1661
@@ -999,7 +1003,7 @@
     Assets:Barclays
     ; cheque: 100155
 
-2013/05/22 Fire extinguishers
+2013/05/22 * Fire extinguishers
     Expenses:sr2013:competition:fire-extinguishers      £56.00
     Liabilities:jmorse
     ; trac: #1569
@@ -1010,7 +1014,7 @@
     Assets:Barclays
     ; cheque: 100166
 
-2013/05/23 Motor and Caster for CRB Team Budget
+2013/05/23 * Motor and Caster for CRB Team Budget
     Expenses:sr2013:team-budget               £70.59
     Liabilities:sr2013-crb
     ; trac: #1669
@@ -1021,7 +1025,7 @@
     Assets:Barclays
     ; cheque: 100162
 
-2013/05/28 Wheels and Wheels etc for CPR Team Budget
+2013/05/28 * Wheels and Wheels etc for CPR Team Budget
     Expenses:sr2013:team-budget               £75.00
     Liabilities:sr2013-cpr
     ; trac: #1666
@@ -1032,7 +1036,7 @@
     Assets:Barclays
     ; cheque: 100159
 
-2013/05/31 Refreshments
+2013/05/31 * Refreshments
     Expenses:sr2013:competition:refreshments      £55.15
     Liabilities:Southampton University Students Union
     ; trac: #1676
@@ -1043,55 +1047,55 @@
     Assets:Barclays
     ; cheque: 100165
 
-2013/06/10 One train ticket
+2013/06/10 * One train ticket
     Expenses:sr2013:mentor-travel             £15.00
     Liabilities:jmorse
     ; trac: #1679
     ; name: jmorse-travel
 
-2013/06/10 Posting various things to various people.
+2013/06/10 * Posting various things to various people.
     Expenses:sr2013:emergency-shipping        £16.34
     Liabilities:jmorse
     ; trac: #1718
     ; name: Mailing-invitation-letters-to-German-teams-via-airmail-etc
 
-2013/06/10 Replacment kit shippments
+2013/06/10 * Replacment kit shippments
     Expenses:sr2013:emergency-shipping        £21.45
     Liabilities:jmorse
     ; trac: #1717
     ; name: Replacment-power-board-for-SEN-etc
 
-2013/06/10 Kit shippments deploying SR2013
+2013/06/10 * Kit shippments deploying SR2013
     Expenses:sr2013:emergency-shipping       £190.06
     Liabilities:jmorse
     ; trac: #1716
     ; name: Shipping-to-EMM-etc
 
-2013/06/10 Arduino and Sonar etc for MAI Team Budget
+2013/06/10 * Arduino and Sonar etc for MAI Team Budget
     Expenses:sr2013:team-budget               £75.00
     Liabilities:jmorse
     ; trac: #1665
     ; name: Arduino-and-Sonar-etc
 
-2013/06/10 Linode hosting cost
+2013/06/10 * Linode hosting cost
     Expenses:sr2013:hosting                  £320.00
     Liabilities:jmorse
     ; trac: #1683
     ; name: linode
 
-2013/06/10 CTMG50W and VAT etc for Tape for SR2013 Arena construction
+2013/06/10 * CTMG50W and VAT etc for Tape for SR2013 Arena construction
     Expenses:sr2013:competition:tape         £222.44
     Liabilities:jmorse
     ; trac: #1633
     ; name: tape-purchase-and-delivery
 
-2013/06/10 Plywood for robot badges
+2013/06/10 * Plywood for robot badges
     Expenses:sr2013:competition:arena:wood      £13.18
     Liabilities:jmorse
     ; trac: #1681
     ; name: 1-sheet-of-4x2-6mm-ply
 
-2013/06/10 Lilafisch mentoring travel
+2013/06/10 * Lilafisch mentoring travel
     Expenses:sr2013:mentor-travel            £147.76
     Liabilities:jmorse
     ; trac: #1660
@@ -1102,7 +1106,7 @@
     Assets:Barclays
     ; cheque: 100171
 
-2013/06/19 Team TWG
+2013/06/19 * Team TWG
     Expenses:sr2013:team-budget               £66.85
     Liabilities:Tunbridge Wells School for Boys
     ; trac: #1657
@@ -1113,19 +1117,19 @@
     Assets:Barclays
     ; cheque: 100152
 
-2013/06/26 Van hire for SR2013 scaff collection and drop-off
+2013/06/26 * Van hire for SR2013 scaff collection and drop-off
     Expenses:sr2013:competition:arena:scaff-transportation     £136.73
     Liabilities:rspanton
     ; trac: #1638
     ; name: large-van
 
-2013/06/26 RCDs for SR2013
+2013/06/26 * RCDs for SR2013
     Expenses:sr2013:competition:rcds          £66.08
     Liabilities:rspanton
     ; trac: #1644
     ; name: rcds
 
-2013/06/26 Fixings for SR2013 arena
+2013/06/26 * Fixings for SR2013 arena
     Expenses:sr2013:competition:arena:fixings       £5.32
     Liabilities:rspanton
     ; trac: #1644
@@ -1136,13 +1140,13 @@
     Assets:Barclays
     ; cheque: 100169
 
-2013/07/02 Kill Switches
+2013/07/02 * Kill Switches
     Expenses:sr2013:competition:panic-buttons       £3.02
     Liabilities:tward
     ; trac: #1558
     ; name: kill-switches-2
 
-2013/07/02 Kill Switches
+2013/07/02 * Kill Switches
     Expenses:sr2013:competition:panic-buttons      £21.14
     Liabilities:tward
     ; trac: #1559
@@ -1153,7 +1157,7 @@
     Assets:Barclays
     ; cheque: 100167
 
-2013/07/16 Shirts for SR2013
+2013/07/16 * Shirts for SR2013
     Expenses:sr2013:clothing                 £149.21
     Liabilities:Signature Leisurewear
     ; trac: #1596
@@ -1164,7 +1168,7 @@
     Assets:Barclays
     ; cheque: 100173
 
-2013/07/19 Mentoring travel costs for mcolpman
+2013/07/19 * Mentoring travel costs for mcolpman
     Expenses:sr2013:mentor-travel            £128.20
     Liabilities:mcolpman
     ; trac: #1674
@@ -1175,7 +1179,7 @@
     Assets:Barclays
     ; cheque: 100170
 
-2013/07/25 Pay SUSU for SR2013 building hire
+2013/07/25 * Pay SUSU for SR2013 building hire
     Expenses:sr2013:competition:venue-hire     £850.00
     Liabilities:Southampton University Students Union
     ; trac: #1748
@@ -1186,7 +1190,7 @@
     Assets:Barclays
     ; cheque: 100172
 
-2013/08/05 Farnell components for MCV4b
+2013/08/05 * Farnell components for MCV4b
     Expenses:sr2014:kits:motor:components    £1946.33
     Liabilities:rbarlow
     ; trac: #1838
@@ -1197,49 +1201,49 @@
     Assets:Barclays
     ; cheque: 100174
 
-2013/08/29 MCv4 prototype PCBs and solder paste stencil
+2013/08/29 * MCv4 prototype PCBs and solder paste stencil
     Expenses:dev:prototyping                 £189.38
     Liabilities:rbarlow
     ; trac: #1740
     ; name: mcv4b_prototype_pcbs
 
-2013/08/29 Verical components for MCV4b
+2013/08/29 * Verical components for MCV4b
     Expenses:sr2014:kits:motor:components    £1589.08
     Liabilities:jmorse
     ; trac: #1841
     ; name: sr2014-motor-components-verical
 
-2013/08/29 Nuts and bolts for SR2014 cases
+2013/08/29 * Nuts and bolts for SR2014 cases
     Expenses:sr2014:kits:case-assemble        £73.28
     Liabilities:rbarlow
     ; trac: #1853
     ; name: sr2014-case-nuts-bolts-nylon
 
-2013/08/29 MCv4 prototype components
+2013/08/29 * MCv4 prototype components
     Expenses:dev:prototyping                 £156.00
     Liabilities:rbarlow
     ; trac: #1741
     ; name: mcv4b_prototype_components
 
-2013/08/29 Competition certificates
+2013/08/29 * Competition certificates
     Expenses:sr2013:competition:prizes       £268.80
     Liabilities:rbarlow
     ; trac: #1613
     ; name: certificates
 
-2013/08/29 Mouser components for MCV4b
+2013/08/29 * Mouser components for MCV4b
     Expenses:sr2014:kits:motor:components     £858.05
     Liabilities:jmorse
     ; trac: #1839
     ; name: sr2014-motor-components-mouser
 
-2013/08/29 Ruggeduinos for SR2014
+2013/08/29 * Ruggeduinos for SR2014
     Expenses:sr2014:kits:arduino:arduino    £2579.02
     Liabilities:jmorse
     ; trac: #1842
     ; name: Ruggeduino-x80
 
-2013/08/29 Digikey components for MCV4b
+2013/08/29 * Digikey components for MCV4b
     Expenses:sr2014:kits:motor:components     £109.39
     Liabilities:jmorse
     ; trac: #1840
@@ -1255,13 +1259,13 @@
     Assets:Barclays
     ; cheque: 100177
 
-2013/09/02 SR2014 motor board PCB manufacture by Garner Osborne
+2013/09/02 * SR2014 motor board PCB manufacture by Garner Osborne
     Expenses:sr2014:kits:motor:pcb           £696.00
     Liabilities:Garner Osbourne
     ; trac: #1830
     ; name: sr2014-motor-pcbs
 
-2013/09/02 SR2014 motor board assembly by Garner Osborne
+2013/09/02 * SR2014 motor board assembly by Garner Osborne
     Expenses:sr2014:kits:motor:assembly     £2542.80
     Liabilities:Garner Osbourne
     ; trac: #1830
@@ -1272,61 +1276,61 @@
     Assets:Barclays
     ; cheque: 100178
 
-2013/09/11 rspanton  ;LiPo chargers for SR2014
+2013/09/11 * rspanton  ;LiPo chargers for SR2014
     Expenses:sr2014:kits:batteries:chargers     £284.35
     Liabilities:rspanton
     ; trac: #1880
     ; name: sr2014-chargers
 
-2013/09/11 rspanton  ;Battery-gauge charging cables
+2013/09/11 * rspanton  ;Battery-gauge charging cables
     Expenses:sr2014:kits:batteries:cables     £186.81
     Liabilities:rspanton
     ; trac: #1880
     ; name: sr2014-charge-cables
 
-2013/09/11 rspanton  ;32 XT60 connectors for SR2014.
+2013/09/11 * rspanton  ;32 XT60 connectors for SR2014.
     Expenses:sr2014:kits:batteries:cables      £52.84
     Liabilities:rspanton
     ; trac: #1880
     ; name: sr2014-xt60-conns
 
-2013/09/11 rspanton  ;LiPo batteries for SR2014
+2013/09/11 * rspanton  ;LiPo batteries for SR2014
     Expenses:sr2014:kits:batteries:batteries    £1233.60
     Liabilities:rspanton
     ; trac: #1880
     ; name: sr2014-batteries
 
-2013/09/30 Velcro for batteries
+2013/09/30 * Velcro for batteries
     Expenses:sr2014:kits:batteries:velcro      £85.70
     Liabilities:jmorse
     ; trac: #1884
     ; name: 5m-loop-20mm-(107425)-x7-etc
 
-2013/09/30 Camcons
+2013/09/30 * Camcons
     Expenses:sr2014:kits:connectors          £430.33
     Liabilities:jmorse
     ; trac: #1884
     ; name: 7.5mm-camcon-(3882275)-x540-etc
 
-2013/09/30 Nuts and bolts for cases
+2013/09/30 * Nuts and bolts for cases
     Expenses:sr2014:kits:case-assemble        £15.23
     Liabilities:jmorse
     ; trac: #1884
     ; name: M3-nut-100pk-(1419447)-x5-etc
 
-2013/09/30 Wire
+2013/09/30 * Wire
     Expenses:sr2014:kits:wire                £396.94
     Liabilities:jmorse
     ; trac: #1884
     ; name: 25m-thick-blue-(1465870)-x4-etc
 
-2013/09/30 USB cables
+2013/09/30 * USB cables
     Expenses:sr2014:kits:usb-cables          £284.81
     Liabilities:jmorse
     ; trac: #1884
     ; name: 1m-USB-micro-B-(2085464)-x160-etc
 
-2013/09/30 Power board assembly components
+2013/09/30 * Power board assembly components
     Expenses:sr2014:kits:power:assy_components      £56.10
     Liabilities:jmorse
     ; trac: #1884
@@ -1337,19 +1341,19 @@
     Assets:Barclays
     ; cheque: 100181
 
-2013/10/01 Battery bags for SR2014
+2013/10/01 * Battery bags for SR2014
     Expenses:sr2014:kits:batteries:bags      £207.00
     Liabilities:rspanton
     ; trac: #1719
     ; name: battery-bags
 
-2013/10/01 USB keys for SR2014
+2013/10/01 * USB keys for SR2014
     Expenses:sr2014:kits:usb-keys            £148.50
     Liabilities:rspanton
     ; trac: #1876
     ; name: sr2014-usb-keys
 
-2013/10/01 Logitech C270 webcams, free shipping.
+2013/10/01 * Logitech C270 webcams, free shipping.
     Expenses:sr2014:kits:webcam              £400.68
     Liabilities:rspanton
     ; trac: #1875
@@ -1360,19 +1364,19 @@
     Assets:Barclays
     ; cheque: 100184
 
-2013/10/02 USB riser PCBs for USB Risers - PCBs
+2013/10/02 * USB riser PCBs for USB Risers - PCBs
     Expenses:sr2013:kits:power:usb-riser-pcb      £77.39
     Liabilities:acottrell
     ; trac: #1582
     ; name: USB-riser-PCBs
 
-2013/10/02 1668577 and 1696544 for USB risers
+2013/10/02 * 1668577 and 1696544 for USB risers
     Expenses:sr2013:kits:power:usb-riser-components      £22.00
     Liabilities:acottrell
     ; trac: #1581
     ; name: 1668577-and-1696544
 
-2013/10/02 Mentor Travel for ACottrell
+2013/10/02 * Mentor Travel for ACottrell
     Expenses:sr2013:mentor-travel             £84.75
     Liabilities:acottrell
     ; trac: #1685
@@ -1388,7 +1392,7 @@
     Assets:Barclays
     ; cheque: 100179
 
-2013/10/08 USB hubs for SR2014 and SR2015
+2013/10/08 * USB hubs for SR2014 and SR2015
     Expenses:sr2014:kits:usb-hubs           £2148.00
     Liabilities:rspanton
     ; trac: #1882
@@ -1399,13 +1403,13 @@
     Assets:Barclays
     ; cheque: 100188
 
-2013/10/09 ALU for mech kits
+2013/10/09 * ALU for mech kits
     Expenses:sr2014:kits:mech:alu-angle      £304.90
     Liabilities:jmorse
     ; trac: #1968
     ; name: mech-kit-alu-2014
 
-2013/10/09 PSP1000 LCDs for power boards
+2013/10/09 * PSP1000 LCDs for power boards
     Expenses:sr2014:kits:power:lcds          £230.00
     Liabilities:jmorse
     ; trac: #1861
@@ -1416,13 +1420,13 @@
     Assets:Barclays
     ; cheque: 100187
 
-2013/10/10 PCB and assembly for servo boards
+2013/10/10 * PCB and assembly for servo boards
     Expenses:sr2014:kits:servo:assembly      £704.00
     Liabilities:Garner Osbourne
     ; trac: #1858
     ; name: PCB-and-assembly-for-servo-boards
 
-2013/10/10 PCB and assembly for power boards
+2013/10/10 * PCB and assembly for power boards
     Expenses:sr2014:kits:power:assembly     £1320.00
     Liabilities:Garner Osbourne
     ; trac: #1858
@@ -1438,97 +1442,97 @@
     Assets:Barclays
     ; cheque: 100186
 
-2013/10/16 MCv4b cases
+2013/10/16 * MCv4b cases
     Expenses:sr2014:kits:motor:cases         £660.00
     Liabilities:rbarlow
     ; trac: #1864
     ; name: sr2014-motor-cases
 
-2013/10/16 Screwdrivers for mech kits
+2013/10/16 * Screwdrivers for mech kits
     Expenses:sr2014:kits:mech:tools           £60.92
     Liabilities:rbarlow
     ; trac: #2009
     ; name: sr2014-mech-kit-screwdrivers
 
-2013/10/16 Cardboard boxes for use as tokens in SR2014
+2013/10/16 * Cardboard boxes for use as tokens in SR2014
     Expenses:sr2014:kits:game-boxes           £67.97
     Liabilities:jmorse
     ; trac: #1964
     ; name: sr2014-tokens
 
-2013/10/16 Power board cases
+2013/10/16 * Power board cases
     Expenses:sr2014:kits:power:cases         £353.88
     Liabilities:rbarlow
     ; trac: #1883
     ; name: Laser-cutting-of-20-power-board-cases-etc
 
-2013/10/16 Ruggeduino screw shields
+2013/10/16 * Ruggeduino screw shields
     Expenses:sr2014:kits:arduino:screw-shield     £530.97
     Liabilities:jmorse
     ; trac: #1863
     ; name: Ruggeduino-screw-shield-(RB-Dfr-56)-x80-etc
 
-2013/10/16 Digikey components for power boards
+2013/10/16 * Digikey components for power boards
     Expenses:sr2014:kits:power:components      £41.86
     Liabilities:rbarlow
     ; trac: #1860
     ; name: Digikey-components-for-power-boards
 
-2013/10/16 Paying lawyers for legal advice
+2013/10/16 * Paying lawyers for legal advice
     Expenses:sr2014:lawyers                  £900.00
     Liabilities:jmorse
     ; trac: #2038
     ; name: Team-leader-review-etc
 
-2013/10/16 Stretch wrap for attaching kits to pallets
+2013/10/16 * Stretch wrap for attaching kits to pallets
     Expenses:sr2014:kickstart:shipping:packing       £4.89
     Liabilities:jmorse
     ; trac: #1964
     ; name: sr2014-stretch-wrap
 
-2013/10/16 USB riser components
+2013/10/16 * USB riser components
     Expenses:sr2014:kits:power:usb-riser      £16.73
     Liabilities:rbarlow
     ; trac: #1865
     ; name: sr2014-power-usbriser-components
 
-2013/10/16 Digikey components for servo boards
+2013/10/16 * Digikey components for servo boards
     Expenses:sr2014:kits:servo:components      £60.00
     Liabilities:rbarlow
     ; trac: #1860
     ; name: Digikey-components-for-servo-boards
 
-2013/10/16 Servo board cases
+2013/10/16 * Servo board cases
     Expenses:sr2014:kits:servo:cases         £155.40
     Liabilities:rbarlow
     ; trac: #1883
     ; name: Laser-cutting-of-20-servo-board-cases-etc
 
-2013/10/16 Cable ties for mech kits
+2013/10/16 * Cable ties for mech kits
     Expenses:sr2014:kits:mech:bits           £119.69
     Liabilities:jmorse
     ; trac: #2006
     ; name: sr2014-mech-kit-cableties
 
-2013/10/16 Farnell components for power boards
+2013/10/16 * Farnell components for power boards
     Expenses:sr2014:kits:power:components     £691.95
     Liabilities:rbarlow
     ; trac: #1859
     ; name: Farnell-components-for-power-boards
 
-2013/10/16 Cases for ruggeduinos
+2013/10/16 * Cases for ruggeduinos
     Expenses:sr2014:kits:arduino:cases       £370.80
     Liabilities:rbarlow
     ; trac: #1987
     ; name: sr2014-ruggeduino-cases
 
-2013/10/16 Mech kit
+2013/10/16 * Mech kit
     Expenses:sr2014:kits:mech:bits           £865.94
     Liabilities:jmorse
     ; trac: #1985
     ; name: sr2014-mech-kit
 
-2013/10/16 Farnell components for servo boards
+2013/10/16 * Farnell components for servo boards
     Expenses:sr2014:kits:servo:components     £260.00
     Liabilities:rbarlow
     ; trac: #1859
@@ -1549,7 +1553,7 @@
     Assets:Barclays
     ; cheque: 100193
 
-2013/10/17 boxes and lids
+2013/10/17 * boxes and lids
     Expenses:sr2014:kits:box                 £295.31
     Liabilities:cbaines
     ; trac: #1899
@@ -1560,7 +1564,7 @@
     Assets:Barclays
     ; cheque: 100195
 
-2013/10/31 Bits and pieces for kickstart 2012
+2013/10/31 * Bits and pieces for kickstart 2012
     Expenses:sr2014:kickstart:misc-bits       £74.84
     Liabilities:tjones
     ; trac: #1886
@@ -1571,49 +1575,49 @@
     Assets:Barclays
     ; cheque: 100194
 
-2013/11/04 Ratchet straps for pallets
+2013/11/04 * Ratchet straps for pallets
     Expenses:sr2014:kickstart:shipping:packing      £40.44
     Liabilities:rspanton
     ; trac: #1962
     ; name: sr2014-ratchet-straps
 
-2013/11/04 SR2014 ruggeduino case fixings
+2013/11/04 * SR2014 ruggeduino case fixings
     Expenses:sr2014:kits:arduino:cases       £110.46
     Liabilities:rspanton
     ; trac: #1992
     ; name: sr2014-ruggeduino-case-fixings
 
-2013/11/04 SD cards for BeagleBoards
+2013/11/04 * SD cards for BeagleBoards
     Expenses:sr2014:kits:sd-cards            £428.19
     Liabilities:rspanton
     ; trac: #1960
     ; name: sr2014-sd-cards
 
-2013/11/04 PSUs for new SR2014 chargers
+2013/11/04 * PSUs for new SR2014 chargers
     Expenses:sr2014:kits:batteries:chargers     £195.50
     Liabilities:rspanton
     ; trac: #1991
     ; name: sr2014-charger-psus
 
-2013/11/04 Wire and connectors for 39 new SR2014 battery cables
+2013/11/04 * Wire and connectors for 39 new SR2014 battery cables
     Expenses:sr2014:kits:batteries:cables     £178.89
     Liabilities:rspanton
     ; trac: #1952
     ; name: sr2014-batt-cables
 
-2013/11/04 MicroSD to SD adapters for SR2014.
+2013/11/04 * MicroSD to SD adapters for SR2014.
     Expenses:sr2014:kits:sd-cards             £57.19
     Liabilities:rspanton
     ; trac: #1961
     ; name: sr2014-sd-adapters
 
-2013/11/04 Pallets for shipping
+2013/11/04 * Pallets for shipping
     Expenses:sr2014:kickstart:shipping:pallets      £15.00
     Liabilities:rspanton
     ; trac: #1957
     ; name: sr2014-pallets
 
-2013/11/04 Bubble wrap for packaging kit in
+2013/11/04 * Bubble wrap for packaging kit in
     Expenses:sr2014:bubble-wrap               £81.70
     Liabilities:rspanton
     ; trac: #1953
@@ -1624,13 +1628,13 @@
     Assets:Barclays
     ; cheque: 100192
 
-2013/11/19 jmorse  ;Additional lawyer fee
+2013/11/19 * jmorse  ;Additional lawyer fee
     Expenses:sr2014:lawyers                  £211.20
     Liabilities:jmorse
     ; trac: #2143
     ; name: Final-portion-of-the-cost-of-TLA-opinion-and-disclaimer
 
-2013/11/21 Pay alynn £20 for soton kickstart biscuits
+2013/11/21 * Pay alynn £20 for soton kickstart biscuits
     Expenses:sr2014:kickstart:southampton:refreshments      £20.00
     Liabilities:alynn
     ; trac: #2034
@@ -1641,7 +1645,7 @@
     Assets:Barclays
     ; cheque: 100196
 
-2013/12/01 jmorse  ;Purchase shipping to Germany and France
+2013/12/01 * jmorse  ;Purchase shipping to Germany and France
     Expenses:sr2014:kickstart:shipping:overseas     £258.65
     Liabilities:jmorse
     ; trac: #2048
