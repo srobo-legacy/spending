@@ -4,7 +4,7 @@
     Assets:Barclays                         £2130.12
     Equity:Opening Balance
 
-2012/01/18 * Payment for the notarisation of the charity equivalency forms
+2012/01/18 Payment for the notarisation of the charity equivalency forms
     Expenses:sr2012:notarisation              £75.00
     Liabilities:rspanton
     ; trac: #1029
@@ -26,25 +26,25 @@
     Assets:Barclays
     ; cheque: 100116
 
-2012/03/14 * Really Useful Boxes to hold the kits
+2012/03/14 Really Useful Boxes to hold the kits
     Expenses:sr2012:kits:box                 £209.75
     Liabilities:rbarlow
     ; trac: #875
     ; name: kit-rubs
 
-2012/03/14 * Aluminium angle for the mech kits
+2012/03/14 Aluminium angle for the mech kits
     Expenses:sr2012:kits:mech:alu-angle      £247.99
     Liabilities:rbarlow
     ; trac: #880
     ; name: mech-alu
 
-2012/03/14 * USB keys for the kits
+2012/03/14 USB keys for the kits
     Expenses:sr2012:kits:usb-keys             £29.94
     Liabilities:rbarlow
     ; trac: #871
     ; name: kit-usb-keys
 
-2012/03/14 * USB hubs for the kits
+2012/03/14 USB hubs for the kits
     Expenses:sr2012:kits:usb-hubs             £61.73
     Liabilities:rbarlow
     ; trac: #871
@@ -72,98 +72,98 @@
     ; trac: #929
     ; name: cardboard-tubes
 
-2012/04/23 Hotel for Krakow conference
+2012/04/23 * Hotel for Krakow conference
     Expenses:old:krakow                      £355.77
     Liabilities:rspanton
     ; trac: #850
     ; name: rspanton-krakow
     ; receipt: ./receipts/2012/04/krakow-hotel.pdf
 
-2012/04/23 * Cable ties for the mech kit
+2012/04/23 Cable ties for the mech kit
     Expenses:sr2012:kits:mech:cableties       £59.10
     Liabilities:rbarlow
     ; trac: #886
     ; name: kit-cable-ties
 
-2012/04/23 * Cardboard boxes for shipping
+2012/04/23 Cardboard boxes for shipping
     Expenses:sr2012:emergency-shipping        £20.00
     Liabilities:rbarlow
     ; trac: #895
     ; name: shipping-boxes
 
-2012/04/23 * Shipping of kit to HZW
+2012/04/23 Shipping of kit to HZW
     Expenses:sr2012:emergency-shipping        £35.99
     Liabilities:rbarlow
     ; trac: #934
     ; name: hzw-shipping
 
-2012/04/23 * Cardboard boxes for tokens
+2012/04/23 Cardboard boxes for tokens
     Expenses:sr2012:tokens                    £47.95
     Liabilities:rspanton
     ; trac: #872
     ; name: token-boxes
 
-2012/04/23 * Mini-USB cables for kit
+2012/04/23 Mini-USB cables for kit
     Expenses:sr2012:kits:usb-cables           £11.64
     Liabilities:rbarlow
     ; trac: #860
     ; name: mini-usb-cables
 
-2012/04/23 * Stretch wrap and fragile tape
+2012/04/23 Stretch wrap and fragile tape
     Expenses:sr2012:emergency-shipping        £18.87
     Liabilities:rbarlow
     ; trac: #897
     ; name: stretch-wrap-tape
 
-2012/04/23 * Wire for SR2012 kits
+2012/04/23 Wire for SR2012 kits
     Expenses:sr2012:kits:wire                £195.07
     Liabilities:rbarlow
     ; trac: #874
     ; name: kit-wire
 
-2012/04/23 * Power cables for battery chargers
+2012/04/23 Power cables for battery chargers
     Expenses:sr2012:kits:battery-chargers      £93.41
     Liabilities:rspanton
     ; trac: #847
     ; name: battery-charger-cables
 
-2012/04/23 * Lithium-ion polymer batteries
+2012/04/23 Lithium-ion polymer batteries
     Expenses:sr2012:kits:batteries          £1482.99
     Liabilities:rspanton
     ; trac: #856
     ; name: lipo-batteries
 
-2012/04/23 * Shipping of a replacement power board to EMM
+2012/04/23 Shipping of a replacement power board to EMM
     Expenses:sr2012:emergency-shipping        £15.31
     Liabilities:rbarlow
     ; trac: #1045
     ; name: emm-rep-power-shipping
 
-2012/04/23 * PPL licence for SR2012 competition
+2012/04/23 PPL licence for SR2012 competition
     Expenses:sr2012:competition:music-ppl      £55.46
     Liabilities:rspanton
     ; trac: #1148
     ; name: ppl-license
 
-2012/04/23 * Kit shipping through despatchbay
+2012/04/23 Kit shipping through despatchbay
     Expenses:sr2012:emergency-shipping        £61.80
     Liabilities:rspanton
     ; trac: #933
     ; name: despatch-bay
 
-2012/04/23 * Shipping of kit to QMC
+2012/04/23 Shipping of kit to QMC
     Expenses:sr2012:emergency-shipping        £35.39
     Liabilities:rspanton
     ; trac: #1009
     ; name: qmc-shipping
 
-2012/04/23 * Shipping of a replacement motor board to BWS
+2012/04/23 Shipping of a replacement motor board to BWS
     Expenses:sr2012:emergency-shipping         £5.90
     Liabilities:rbarlow
     ; trac: #1125
     ; name: bws-rep-motor-shipping
 
-2012/04/23 * Wire and plugs for battery cables
+2012/04/23 Wire and plugs for battery cables
     Expenses:sr2012:kits:battery-cables      £111.22
     Liabilities:rspanton
     ; trac: #858
@@ -249,7 +249,7 @@
     Assets:Barclays
     ; cheque: 100121
 
-2012/06/07 * Trophies
+2012/06/07 Trophies
     Expenses:sr2012:competition:trophies     £121.24
     Liabilities:ckirkham
     ; trac: #1175
@@ -468,7 +468,7 @@
     Assets:Barclays
     ; cheque: 100138
 
-2012/10/02 * Garner Osborne  ;Purchase of motor boards
+2012/10/02 Garner Osborne  ;Purchase of motor boards
     Expenses:sr2013:kits:motor:assembly     £1958.35
     Assets:Barclays
     ; trac: #1341
@@ -502,7 +502,7 @@
     Assets:Barclays
     ; cheque: 100139
 
-2012/10/08 * 1245 return        ; Return of overpayment for #1245
+2012/10/08 1245 return        ; Return of overpayment for #1245
     Assets:Barclays			£199.42
     Assets:Reimbursements:rspanton
     ; trac: #1245
