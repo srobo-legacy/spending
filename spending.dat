@@ -1706,6 +1706,11 @@
     Liabilities:Team LFG
     ; trac: #2366
 
+2014/04/04 ! T-Shirts
+    Expenses:sr2014:clothing			£88
+    Liabilities:Unknown
+    ; trac: #2371
+
 2014-04-05 ! CCR team budget
     Expenses:sr2014:team-budget			£75.00
     Liabilities:Cirencester College
