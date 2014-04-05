@@ -1687,3 +1687,13 @@
     Assets:Barclays
     ; cheque: 100199
 
+2014-04-05 ! CCR team budget
+    Expenses:sr2014:team-budget			£75.00
+    Liabilities:Cirencester College
+    ; trac: #2372
+    ; receipt: ./receipts/2014/04/receipts-ccr.pdf
+
+2014-04-05 ! LSS team budget
+    Expenses:sr2014:team-budget			£57.64
+    Liabilities:Lawrence Sheriff School
+    ; trac: #2373
