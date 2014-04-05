@@ -1687,6 +1687,21 @@
     Assets:Barclays
     ; cheque: 100199
 
+2014/04/01 ! KES team budget
+    Expenses:sr2014:team-budget			£75.00
+    Liabilities:sr2014-kes
+    ; trac: #2365
+
+2014/04/01 ! BPV team budget
+    Expenses:sr2014:team-budget			£72.02
+    Liabilities:Barton Peveril College
+    ; trac: #2367
+
+2014/04/01 ! LFG team budget
+    Expenses:sr2014:team-budget			£75.00
+    Liabilities:Team LFG
+    ; trac: #2366
+
 2014-04-05 ! CCR team budget
     Expenses:sr2014:team-budget			£75.00
     Liabilities:Cirencester College
