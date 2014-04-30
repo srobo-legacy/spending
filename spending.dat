@@ -1691,6 +1691,12 @@
     Assets:Barclays
     ; cheque: 100199
 
+2014/04/01 * Radio hire for SR2014
+    Expenses:sr2014:competition:radio-hire	£261.00
+    Liabilities:jmorse
+    ; trac: #2328
+    ; receipt: ./2014/04/radio-brentwood.pdf
+
 2014/04/01 ! KES team budget
     Expenses:sr2014:team-budget			£75.00
     Liabilities:sr2014-kes
