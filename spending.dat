@@ -1721,3 +1721,93 @@
     Expenses:sr2014:team-budget			£57.64
     Liabilities:Lawrence Sheriff School
     ; trac: #2373
+
+2014-04-08 ! Scaffolding
+    Expenses:sr2014:competition:arenas:scaff-hire	£451.73
+    Liabilities:rspanton
+    ; trac: #2374
+
+2014-04-08 ! Displays for the arena, and also freestanding big screens.
+    Expenses:sr2014:competition:displays:hire	£702.00
+    Liabilities:rspanton
+    ; trac: #2375
+
+2014-04-08 ! Access points for internet distribution
+    Expenses:sr2014:competition:network	£435.75
+    Liabilities:rspanton
+    ; trac: #2375
+
+2014-04-08 ! Carpet for arenas
+    Expenses:sr2014:competition:arenas:carpet	£355.13
+    Liabilities:rspanton
+    ; trac: #2376
+
+2014-04-08 ! Tape for adhering arena carpet to floor
+    Expenses:sr2014:competition:arenas:carpet	£119.20
+    Liabilities:rspanton
+    ; trac: #2377
+
+2014-04-08 ! Clipboards for shepherds
+    Expenses:sr2014:competition:stationery	£9.24
+    Liabilities:rspanton
+    ; trac: #2378
+
+2014-04-08 ! Stationery supplies
+    Expenses:sr2014:competition:stationery	£45.53
+    Liabilities:rspanton
+    ; trac: #2379
+
+2014-04-08 ! Card for token and arena markers
+    Expenses:sr2014:tokens	£47.97
+    Liabilities:rspanton
+    ; trac: #2379
+
+2014-04-14 ! None
+    Expenses:sr2014:competition:stationery	£44.33
+    Liabilities:rspanton
+    ; trac: #2386
+
+2014-04-14 ! SD cards for Raspberry Pis for driving the 11 hired displays
+    Expenses:sr2014:competition:displays:drivers	£32.89
+    Liabilities:rspanton
+    ; trac: #2386
+
+2014-04-14 ! Mains -> micro USB supplies for Pis
+    Expenses:sr2014:competition:displays:drivers	£25.19
+    Liabilities:rspanton
+    ; trac: #2387
+
+2014-04-14 ! Raspberry Pis for hired displays
+    Expenses:sr2014:competition:displays:drivers	£28.68
+    Liabilities:rspanton
+    ; trac: #2388
+
+2014-04-14 ! Plastic coating for protecting the carpet from flailing
+    Expenses:sr2014:competition:floor-protection	£812.16
+    Liabilities:rspanton
+    ; trac: #2389
+
+2014-04-14 ! Van hire for SR2014
+    Expenses:sr2014:competition:van-hire	£387.00
+    Liabilities:rspanton
+    ; trac: #2390
+
+2014-04-16 ! Trestle tables for SR2014
+    Expenses:sr2014:competition:tables	£78.00
+    Liabilities:rspanton
+    ; trac: #2391
+
+2014-04-16 ! Hardboard for SR2014 arenas
+    Expenses:sr2014:competition:arenas:wood	£369.60
+    Liabilities:rspanton
+    ; trac: #2392
+
+2014-04-16 ! Tape for carpet protection
+    Expenses:sr2014:competition:floor-protection	£186.25
+    Liabilities:rspanton
+    ; trac: #2393
+
+2014-04-16 ! Tape for joining adjacent sheets of floor protection
+    Expenses:sr2014:competition:floor-protection	£38.64
+    Liabilities:rspanton
+    ; trac: #2394
