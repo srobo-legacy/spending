@@ -1739,15 +1739,17 @@
     Liabilities:rspanton
     ; trac: #2374
 
-2014-04-08 ! Displays for the arena, and also freestanding big screens.
+2014-04-08 * Displays for the arena, and also freestanding big screens.
     Expenses:sr2014:competition:displays:hire	£702.00
     Liabilities:rspanton
     ; trac: #2375
+    ; receipts: ./receipts/2014/04/itr.pdf
 
-2014-04-08 ! Access points for internet distribution
+2014-04-08 * Access points for internet distribution
     Expenses:sr2014:competition:network	£435.75
     Liabilities:rspanton
     ; trac: #2375
+    ; receipts: ./receipts/2014/04/itr.pdf
 
 2014-04-08 ! Carpet for arenas
     Expenses:sr2014:competition:arenas:carpet	£355.13
