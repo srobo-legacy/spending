@@ -1811,3 +1811,7 @@
     Expenses:sr2014:competition:floor-protection	£38.64
     Liabilities:rspanton
     ; trac: #2394
+
+2014-04-30 * PPL payment	; Jeremy paying PPL
+    Liabilities:PPL					£58.88
+    Liabilities:jmorse
