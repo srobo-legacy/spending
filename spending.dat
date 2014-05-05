@@ -1734,10 +1734,11 @@
     Liabilities:Lawrence Sheriff School
     ; trac: #2373
 
-2014-04-08 ! Scaffolding
+2014-04-08 * Scaffolding
     Expenses:sr2014:competition:arenas:scaff-hire	£451.73
-    Liabilities:rspanton
+    Liabilities:Harsco
     ; trac: #2374
+    ; receipt: ./receipts/2014/04/harsco-invoice.jpg
 
 2014-04-08 * Displays for the arena, and also freestanding big screens.
     Expenses:sr2014:competition:displays:hire	£702.00
