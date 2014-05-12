@@ -1753,10 +1753,11 @@
     ; trac: #2375
     ; receipts: ./receipts/2014/04/itr.pdf
 
-2014-04-08 ! Carpet for arenas
-    Expenses:sr2014:competition:arenas:carpet	£355.13
+2014-04-08 * Carpet for arenas
+    Expenses:sr2014:competition:arenas:carpet	£322.20
     Liabilities:rspanton
     ; trac: #2376
+    ; receipts: ./receipts/2014/04/moreforyourfloor.pdf
 
 2014-04-08 * Tape for adhering arena carpet to floor
     Expenses:sr2014:competition:arenas:carpet	£119.20
