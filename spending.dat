@@ -1808,10 +1808,11 @@
     Liabilities:rspanton
     ; trac: #2390
 
-2014-04-16 ! Trestle tables for SR2014
+2014-04-16 * Trestle tables for SR2014
     Expenses:sr2014:competition:tables	£78.00
     Liabilities:rspanton
     ; trac: #2391
+    ; receipt: ./receipts/2014/04/swifthire.pdf
 
 2014-04-16 * Hardboard for SR2014 arenas
     Expenses:sr2014:competition:arenas:wood	£364.32
