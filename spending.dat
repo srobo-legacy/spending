@@ -1768,15 +1768,12 @@
     Liabilities:rspanton
     ; trac: #2378
 
-2014-04-08 ! Stationery supplies
+2014-04-08 * Viking Direct      ; Stationery and paper for SR2014
     Expenses:sr2014:competition:stationery	£45.53
+    Expenses:sr2014:tokens			£47.95
     Liabilities:rspanton
     ; trac: #2379
-
-2014-04-08 ! Card for token and arena markers
-    Expenses:sr2014:tokens	£47.97
-    Liabilities:rspanton
-    ; trac: #2379
+    ; receipts: ./receipts/2014/04/viking.pdf
 
 2014-04-13 ! GafferTape.com
     Expenses:sr2014:competition:tape			£458.56
