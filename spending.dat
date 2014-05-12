@@ -1682,10 +1682,11 @@
     ; trac: #2354
     ; receipt: ./receipts/2014/03/tjones_wristbands.pdf
 
-2014/04/01 ! PRS Licence
-    Expenses:sr2014:competition:music-prs	£137.79
+2014/04/01 * PRS Licence
+    Expenses:sr2014:competition:music-prs	£32.50
     Liabilities:PRS
     ; trac: #2368
+    ; receipt: ./receipts/2014/04/prs.pdf
 
 2014/03/26=2014/04/01 * jmorse
     Liabilities:jmorse				£469.85
