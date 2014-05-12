@@ -1888,8 +1888,8 @@
     Liabilities:jmorse
     ; receipt: ./receipts/2014/04/ppl-receipt.pdf
 
-2014-04-30 rspanton
-    * Liabilities:rspanton				£2040.15
+2014-04-30=2014-05-06 * rspanton
+    Liabilities:rspanton				£2040.15
     Assets:Barclays
     ; cheque: 100205
 
