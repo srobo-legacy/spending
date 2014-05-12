@@ -1725,14 +1725,15 @@
 
 2014-04-05 ! CCR team budget
     Expenses:sr2014:team-budget			£75.00
-    Liabilities:Cirencester College
+    Liabilities:sr2014-ccr
     ; trac: #2372
     ; receipt: ./receipts/2014/04/receipts-ccr.pdf
 
 2014-04-05 ! LSS team budget
     Expenses:sr2014:team-budget			£57.64
-    Liabilities:Lawrence Sheriff School
+    Liabilities:sr2014-lss
     ; trac: #2373
+    ; receipt: ./receipts/2014/04/receipts-lss.pdf
 
 2014-04-08 * Scaffolding
     Expenses:sr2014:competition:arenas:scaff-hire	£451.73
@@ -1836,6 +1837,72 @@
     * Liabilities:rspanton				£2040.15
     Assets:Barclays
     ; cheque: 100205
+
+2014-04-30 ! Team TWG
+    Expenses:sr2014:team-budget				£72.74
+    Liabilities:sr2014-twg
+    ; trac: #2450
+    ; receipt: ./receipts/2014/05/receipts-twg.pdf
+
+2014-04-30 ! Team TBG
+    Expenses:sr2014:team-budget				£69.67
+    Liabilities:sr2014-tbg
+    ; trac: #2449
+    ; receipt: ./receipts/2014/05/receipts-tbg.pdf
+
+2014-04-30 ! Team SWI
+    Expenses:sr2014:team-budget				£32.08
+    Liabilities:sr2014-swi
+    ; trac: #2448
+    ; receipt: ./receipts/2014/05/receipts-swi.pdf
+
+2014-04-30 ! Team MFG
+    Expenses:sr2014:team-budget				£74.59
+    Liabilities:sr2014-mfg
+    ; trac: #2447
+    ; receipt: ./receipts/2014/05/receipts-mfg.pdf
+
+2014-04-30 ! Team KDE
+    Expenses:sr2014:team-budget				£75.00
+    Liabilities:sr2014-kde
+    ; trac: #2446
+    ; receipt: ./receipts/2014/05/receipts-kde.pdf
+
+2014-04-30 ! Team JMS
+    Expenses:sr2014:team-budget				£50.78
+    Liabilities:sr2014-jms
+    ; trac: #2445
+    ; receipt: ./receipts/2014/05/receipts-jms.pdf
+
+2014-04-30 ! Team ICE
+    Expenses:sr2014:team-budget				£39.99
+    Liabilities:sr2014-ice
+    ; trac: #2444
+    ; receipt: ./receipts/2014/05/receipts-ice.pdf
+
+2014-04-30 ! Team GYG
+    Expenses:sr2014:team-budget				£33.89
+    Liabilities:sr2014-gyg
+    ; trac: #2443
+    ; receipt: ./receipts/2014/05/receipts-gyg.pdf
+
+2014-04-30 ! Team GRD
+    Expenses:sr2014:team-budget				£75.00
+    Liabilities:sr2014-grd
+    ; trac: #2442
+    ; receipt: ./receipts/2014/05/receipts-gtd.pdf
+
+2014-04-30 ! Team CGS
+    Expenses:sr2014:team-budget				£75.00
+    Liabilities:sr2014-cgs
+    ; trac: #2441
+    ; receipt: ./receipts/2014/05/receipts-cgs.pdf
+
+2014-04-30 ! Team BWS
+    Expenses:sr2014:team-budget				£41.29
+    Liabilities:sr2014-bws
+    ; trac: #2440
+    ; receipt: ./receipts/2014/05/receipts-bws.pdf
 
 2014-05-1 ! trophies2u          ; 3rd place trophy
     Expenses:sr2014:competition:prizes			£29.44
