@@ -1828,6 +1828,12 @@
     Liabilities:rspanton
     ; trac: #2394
 
+2014-04-17 * Fabric Land
+    Expenses:sr2014:competition:arenas:fabric		£37.50
+    Liabilities:rspanton
+    ; trac: #2395
+    ; receipt: ./receipts/2014/04/fabricland.jpg
+
 2014-04-30 * PPL payment	; Jeremy paying PPL
     Liabilities:PPL					£58.88
     Liabilities:jmorse
