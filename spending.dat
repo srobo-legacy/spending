@@ -1836,3 +1836,8 @@
     * Liabilities:rspanton				£2040.15
     Assets:Barclays
     ; cheque: 100205
+
+2014-05-1 ! trophies2u          ; 3rd place trophy
+    Expenses:sr2014:competition:prizes			£29.44
+    Liabilities:tjones
+    ; trac: #2451
