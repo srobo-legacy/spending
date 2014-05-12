@@ -1954,7 +1954,8 @@
     ; trac: #2440
     ; receipt: ./receipts/2014/05/receipts-bws.pdf
 
-2014-05-1 ! trophies2u          ; 3rd place trophy
+2014-05-1 * trophies2u          ; 3rd place trophy
     Expenses:sr2014:competition:prizes			£29.44
     Liabilities:tjones
     ; trac: #2451
+    ; receipt: ./receipts/2014/05/trophies2u.pdf
