@@ -1821,7 +1821,7 @@
 
 2014-04-16 * Trestle tables for SR2014
     Expenses:sr2014:competition:tables	£78.00
-    Liabilities:rspanton
+    Liabilities:swift-hire
     ; trac: #2391
     ; receipt: ./receipts/2014/04/swifthire.pdf
 
@@ -1867,6 +1867,11 @@
     Assets:Barclays					£4285
     Liabilities:jmorse
     ; This turned out to be very temporary, as the MSF money arrived
+
+2014-04-23=2014-05-07 * Swift Hire
+    Liabilities:swift-hire				£78
+    Assets:Barclays
+    ; cheque: 100203
 
 2014-04-25 * jmorse               ; Repayment of Jeremy's temporary loan
     Liabilities:jmorse					£4285.01
