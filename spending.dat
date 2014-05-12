@@ -1717,8 +1717,9 @@
 
 2014/04/01 ! LFG team budget
     Expenses:sr2014:team-budget			£75.00
-    Liabilities:Team LFG
+    Liabilities:sr2014-lfg
     ; trac: #2366
+    ; receipt: ./receipts/2014/04/receipts-lfg.pdf
 
 2014/04/04 ! T-Shirts
     Expenses:sr2014:clothing			£88
