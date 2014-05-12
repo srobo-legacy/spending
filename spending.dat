@@ -1813,10 +1813,17 @@
     Liabilities:rspanton
     ; trac: #2391
 
-2014-04-16 ! Hardboard for SR2014 arenas
-    Expenses:sr2014:competition:arenas:wood	£369.60
+2014-04-16 * Hardboard for SR2014 arenas
+    Expenses:sr2014:competition:arenas:wood	£364.32
     Liabilities:rspanton
     ; trac: #2392
+    ; receipt: ./receipts/2014/04/wickes.jpg
+
+2014-04-16 * Hardboard for SR2014 arenas
+    Expenses:sr2014:competition:arenas:wood	£5.28
+    Liabilities:rspanton
+    ; trac: #2392
+    ; receipt: ./receipts/2014/04/wickes-2.jpg
 
 2014-04-16 * Tape for carpet protection
     Expenses:sr2014:competition:floor-protection	£167.62
