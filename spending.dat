@@ -1803,10 +1803,11 @@
     Liabilities:rspanton
     ; trac: #2389
 
-2014-04-14 ! Van hire for SR2014
+2014-04-14 * Van hire for SR2014
     Expenses:sr2014:competition:van-hire	£387.00
     Liabilities:rspanton
     ; trac: #2390
+    ; receipt: ./receipts/2014/04/northgate.pdf
 
 2014-04-16 * Trestle tables for SR2014
     Expenses:sr2014:competition:tables	£78.00
