@@ -1798,10 +1798,11 @@
     Liabilities:rspanton
     ; trac: #2388
 
-2014-04-14 ! Plastic coating for protecting the carpet from flailing
-    Expenses:sr2014:competition:floor-protection	£812.16
+2014-04-14 * Plastic coating for protecting the carpet from flailing
+    Expenses:sr2014:competition:floor-protection	£902.40
     Liabilities:rspanton
     ; trac: #2389
+    ; receipt: ./receipts/2014/04/protectascreen.pdf
 
 2014-04-14 * Van hire for SR2014
     Expenses:sr2014:competition:van-hire	£387.00
