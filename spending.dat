@@ -1693,7 +1693,7 @@
     Assets:Barclays
     ; cheque: 100198
 
-2014/03/26=2014/04/14 * tjones
+2014/03/26=2014/04/07 * tjones
     Liabilities:tjones				£112.91
     Assets:Barclays
     ; cheque: 100199
@@ -1854,6 +1854,29 @@
     Liabilities:rspanton
     ; trac: #2395
     ; receipt: ./receipts/2014/04/fabricland.jpg
+
+2014-04-17 * Motorola Solutions Foundation ; Via the SUSU
+    Assets:Barclays					£29532.82
+    Income:Motorola Solutions Foundation
+
+2014-04-16 * jmorse               ; Jeremy paying in 1p to test fast transfers
+    Assets:Barclays					£0.01
+    Liabilities:jmorse
+
+2014-04-17 * jmorse               ; A temporary loan from Jeremy
+    Assets:Barclays					£4285
+    Liabilities:jmorse
+    ; This turned out to be very temporary, as the MSF money arrived
+
+2014-04-25 * jmorse               ; Repayment of Jeremy's temporary loan
+    Liabilities:jmorse					£4285.01
+    Assets:Barclays
+    ; cheque: 100201
+
+2014-04-29 Newbury Racecourse
+    ! Expenses:sr2014:competition:venue-hire		£11625
+    * Assets:Barclays
+    ; cheque: 100202
 
 2014-04-30 * PPL payment	; Jeremy paying PPL
     Liabilities:PPL					£58.88
