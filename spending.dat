@@ -1707,6 +1707,7 @@
     Expenses:sr2014:team-budget			£75.00
     Liabilities:sr2014-kes
     ; trac: #2365
+    ; receipt: ./receipts/2014/04/receipts-kes.pdf
 
 2014/04/01 ! BPV team budget
     Expenses:sr2014:team-budget			£72.02
