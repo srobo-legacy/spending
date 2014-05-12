@@ -1758,10 +1758,11 @@
     Liabilities:rspanton
     ; trac: #2376
 
-2014-04-08 ! Tape for adhering arena carpet to floor
+2014-04-08 * Tape for adhering arena carpet to floor
     Expenses:sr2014:competition:arenas:carpet	£119.20
     Liabilities:rspanton
     ; trac: #2377
+    ; receipts: ./receipts/2014/04/tapesdirect.pdf
 
 2014-04-08 * Clipboards for shepherds
     Expenses:sr2014:competition:stationery	£9.24
