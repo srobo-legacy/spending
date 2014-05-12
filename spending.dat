@@ -1763,10 +1763,11 @@
     Liabilities:rspanton
     ; trac: #2377
 
-2014-04-08 ! Clipboards for shepherds
+2014-04-08 * Clipboards for shepherds
     Expenses:sr2014:competition:stationery	£9.24
     Liabilities:rspanton
     ; trac: #2378
+    ; receipts: ./receipts/2014/04/clipboards.jpg
 
 2014-04-08 * Viking Direct      ; Stationery and paper for SR2014
     Expenses:sr2014:competition:stationery	£45.53
