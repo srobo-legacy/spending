@@ -1778,15 +1778,12 @@
     Liabilities:rspanton
     ; trac: #2379
 
-2014-04-14 ! None
-    Expenses:sr2014:competition:stationery	£44.33
+2014-04-14 * eBuyer             ; Toner and SD cards for SR2014 comp
+    Expenses:sr2014:competition:stationery		£42.83
+    Expenses:sr2014:competition:displays:drivers	£32.08
     Liabilities:rspanton
     ; trac: #2386
-
-2014-04-14 ! SD cards for Raspberry Pis for driving the 11 hired displays
-    Expenses:sr2014:competition:displays:drivers	£32.89
-    Liabilities:rspanton
-    ; trac: #2386
+    ; receipts: ./receipts/2014/04/ebuyer-toner-sd.pdf
 
 2014-04-14 * Mains -> micro USB supplies for Pis
     Expenses:sr2014:competition:displays:drivers	£25.19
