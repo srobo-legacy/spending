@@ -1823,10 +1823,11 @@
     Liabilities:rspanton
     ; trac: #2393
 
-2014-04-16 ! Tape for joining adjacent sheets of floor protection
+2014-04-16 * Tape for joining adjacent sheets of floor protection
     Expenses:sr2014:competition:floor-protection	£38.64
     Liabilities:rspanton
     ; trac: #2394
+    ; receipt: ./receipts/2014/04/protectascreen-2.pdf
 
 2014-04-17 * Fabric Land
     Expenses:sr2014:competition:arenas:fabric		£37.50
