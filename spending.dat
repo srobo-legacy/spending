@@ -1793,10 +1793,11 @@
     Liabilities:rspanton
     ; trac: #2387
 
-2014-04-14 ! Raspberry Pis for hired displays
-    Expenses:sr2014:competition:displays:drivers	£28.68
+2014-04-14 * Raspberry Pis for hired displays
+    Expenses:sr2014:competition:displays:drivers	£315.48
     Liabilities:rspanton
     ; trac: #2388
+    ; receipt: ./receipts/2014/04/farnell-pis.jpg
 
 2014-04-14 * Plastic coating for protecting the carpet from flailing
     Expenses:sr2014:competition:floor-protection	£902.40
