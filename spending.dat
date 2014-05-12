@@ -1818,10 +1818,11 @@
     Liabilities:rspanton
     ; trac: #2392
 
-2014-04-16 ! Tape for carpet protection
-    Expenses:sr2014:competition:floor-protection	£186.25
+2014-04-16 * Tape for carpet protection
+    Expenses:sr2014:competition:floor-protection	£167.62
     Liabilities:rspanton
     ; trac: #2393
+    ; receipt: ./receipts/2014/04/tapesdirect2.pdf
 
 2014-04-16 * Tape for joining adjacent sheets of floor protection
     Expenses:sr2014:competition:floor-protection	£38.64
