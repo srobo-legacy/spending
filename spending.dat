@@ -1819,6 +1819,12 @@
     ; trac: #2390
     ; receipt: ./receipts/2014/04/northgate.pdf
 
+2014-04-15 * Tool Station       ; Fire Extinguishers
+    Expenses:sr2014:competition:fire-extinguishers	£29.66
+    Liabilities:jhacker
+    ; trac: #2370
+    ; receipt: ./receipts/2014/04/toolstation.pdf
+
 2014-04-16 * Trestle tables for SR2014
     Expenses:sr2014:competition:tables	£78.00
     Liabilities:swift-hire
