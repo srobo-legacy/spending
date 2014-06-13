@@ -1971,8 +1971,7 @@
     ; trac: #2451
     ; receipt: ./receipts/2014/05/trophies2u.pdf
 
-; This one isn't yet ack'ed by the treasurers:
-2014-05-13 ! Lighting equipment
+2014-05-13 * Lighting equipment
     Expenses:sr2014:competition:arenas:lighting		£3360.00
     Expenses:sr2014:competition:cabling			£840.00
     Expenses:sr2014:competition:sound			£1800.00
