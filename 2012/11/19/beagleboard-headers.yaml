@@ -1,7 +1,0 @@
-summary: "Beagleboard headers" 
-description: >-
-  Headers to connect the beagleboards to the new power boards
-budget: sr2013/kits/power/components
-cost: 88.56
-trac: 1353
-cheque: 100141
