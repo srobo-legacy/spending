@@ -96,7 +96,13 @@ Note the `*` at the beginning of the `Liabilities` line above.  This means that 
 
 ### Cashing Cheques
 
-When we discover from our bank (through a statement) that a cheque has cleared, the whole transaction for that cheque must be marked as cleared.
+When we discover from our bank (through a statement) that a cheque has cleared, the whole transaction for that cheque must be marked as cleared.  The effective date of the transaction must also be set (this is so that we can generate something that is identical to our bank statement) to be the date on which the money actually left our account.  For example, the following transaction describes a cheque that was written on 2014-04-30 and left our account on 2014-05-06.
+
+	2014-04-30=2014-05-06 * rspanton
+	    Liabilities:rspanton				£2040.15
+	    Assets:Barclays
+	    ; cheque: 100205
+
 
 ### Understanding how much money we have
 
