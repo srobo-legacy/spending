@@ -1,4 +1,117 @@
-= Spending =
+# Spending.git
 
 Welcome to spending.git.  This repository contains records of how
-Student Robotics's money has been spent.
+Student Robotics's money has been spent.  It uses the [ledger](http://ledger-cli.org/) accounting system (make sure you use version 3).
+
+This document is not intended to introduce you to ledger.  The [ledger manual](http://ledger-cli.org/3.0/doc/ledger3.html) does that quite well.  This document provides an overview of how we use ledger for the SR accounts.
+
+## Tools
+
+tools.git contains a `ledger` command that points ledger at the spending.dat file in spending.git.  With your current working directory set to spending.git, you can invoke it like so:
+
+	sr ledger 
+
+The `sr ledger` command will always check that it is genuinely pointing ledger at spending.git (and not any other finances that you happen to have on your machine).  It does this by checking that a particular git commit is present in the repository it points ledger at.
+
+You can avoid having to change directory to spending.git by setting the `spending` config option in `~/.sr/config.yaml` to the location of spending.git on your machine.  After setting that option, you can invoke `sr ledger` with any working directory and ledger will always be pointed at the right place.
+
+## Accounts
+
+We have three general categories of accounts: 
+
+### Assets
+
+We only have one assets account: `Assets:Barclays`.  This is our bank account.
+
+### Expenses
+
+The accounts under the prefix `Expenses:` are all budget lines (with no exception).  The mapping of budget line to account is simple: the forward-slashes are replaced with colons.  For example, the budget line `/sr2020/bees/hives` is mapped to `Expenses:bees:hives`.
+
+### Liabilities
+
+These are things that we owe.  The account is named after the individual/company that we owe money to.  For example: the `Liabilities:Bert's Bees Ltd.` account describes our debt to Bert's Bees Ltd.
+
+Student Robotics usernames may be used, however these may be phased out in the future, as they tend to be less permanent than people's actual names.
+
+## General Philosophy
+
+Ledger has three states for transactions: cleared (*), uncleared (!), and pending (unmarked).  We only make use of cleared and uncleared.
+
+In general, a transaction is marked as cleared once it has fulfilled all requirements, and been validated etc.  For example, in the following cases this means that:
+
+ * Transactions involving movement of money to/from our bank account (`Assets:Barclays`) are marked as cleared when we have seen that they have occurred on a bank statement.
+ 
+ * Transactions that describe the increase of a liability (e.g. when someone registers a trac ticket) are only marked as cleared once they are accepted by the treasurers, tagged with a trac ticket, and receipts have been received.
+
+Uncleared is used to indicate that transaction has not yet actually happened or does not yet comply with all requirements.
+
+## Anonymisation layer
+
+Since we often transfer money to teams for team budgets, and we don't want to publish their names in public, we have an anonymisation layer specifically for this use case.  This is only to be used for transactions with teams.  This layer takes names from the LUT stored in `receipts.git/payees.yaml`.  The comments in that file are quite self-explanatory, but essentially if there were someone from team BEE in the year SR3000, then they would appear as a liability under `Liabilities:sr3000-bee`.  `payees.yaml` contains the name that this actually maps to, and is a file only accessible by the treasurers.
+
+## receipts.git
+
+Receipts.git is a private repository that is only accessible to the treasurers.  It contains scans of all of the receipts and invoices relating to the various transactions involved.  Receipts are linked to transactions using the `receipt` tag.  For example:
+
+	2014-04-30 * Team TWG
+	    Expenses:sr2014:team-budget				£72.74
+	    Liabilities:sr2014-twg
+	    ; trac: #2450
+	    ; receipt: ./receipts/2014/05/receipts-twg.pdf
+
+As you can see above, the path given in the link assumes that receipts.git has been checked out into the directory `receipts` in the root of spending.git. Note that receipts.git is not a submodule of spending.git because it cannot be checked out by everyone.
+
+
+## Workflows
+
+Some example workflows are shown below:
+
+### Purchasing Tickets
+
+When a purchasing ticket is created in trac, and you are the second treasurer to ack it, a transaction must be created.  This must:
+
+ * Be marked as pending (i.e. a '!' sign)
+ * Take money from the relevant `Liabilities` account.  If it isn't yet clear who the payee is yet, make it out to `Liabilities:unknown`.
+ * Be tagged with the trac ticket number preceeded by a hash, e.g. '#1234'.
+
+(`sr make_purchase` now outputs the lines to pump into ledger.)
+
+At this point, with the transaction still pending, SR does not owe any money to anyone.  The transaction will progress to being cleared once suitable paperwork has been linked to it (i.e. an invoice or a receipt).  This linking must be done by tagging the transaction with the `receipt` tag.  Only once the transaction has a known payee, trac ticket tag, and receipt tag  may the transaction be marked as cleared. 
+
+### Writing Cheques
+
+Cheques may only be written according to cleared transactions.  Ledger's `--cleared` should be used to determine this:
+
+    sr ledger bal --cleared ^Liab
+
+Once a cheque is written, a transaction must be entered into the ledger to record this.  This transaction must be marked as uncleared (!) and tagged with the cheque number using the `cheque` tag.  The Liabilities line of the transaction **must** be marked as cleared.  For example:
+
+	2014/03/26 ! tjones
+	    * Liabilities:tjones				£112.91
+	    Assets:Barclays
+	    ; cheque: 100199
+
+Note the `*` at the beginning of the `Liabilities` line above.  This means that we have cleared our liability with this individual, but the cheque has not yet cleared from our bank account.  Therefore, when you run `sr ledger bal --cleared ^Liab` again, you are not going to write another cheque out for the same amount to the individual.
+
+### Cashing Cheques
+
+When we discover from our bank (through a statement) that a cheque has cleared, the whole transaction for that cheque must be marked as cleared.
+
+### Understanding how much money we have
+
+To discover what our current bank balance is, run this query:
+
+	sr ledger bal --cleared ^assets
+
+However, note that we cannot spend all of this money, as some of it is owed to people.  To discover how much money we have that isn't owed to people, run the following command:
+
+	sr ledger bal --cleared -n ^assets ^liab
+
+This will display something like the following:
+
+	           £23132.24  Assets
+	           £-3894.64  Liabilities
+	--------------------
+	           £19237.60
+
+The second line shows you how much money we owe, whilst the last line shows how much money we actually have that's not currently allocated to something.  (Well, it's probably allocated to something in the budget, but here we're talking about whether it's allocated to being paid to someone etc.)
