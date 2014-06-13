@@ -1979,3 +1979,8 @@
     Liabilities:Bennellick Engineering Ltd.
     ; trac: #2469
     ; receipt: ./receipts/2014/05/bennellick.pdf
+
+2014-06-10 ! The Printing House Ltd. ; Certificates for SR2014
+    Expenses:sr2014:competition:prizes			£460.80
+    Liabilities:Howard Buck
+    ; trac: #2498
