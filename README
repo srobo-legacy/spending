@@ -73,6 +73,7 @@ When a purchasing ticket is created in trac, and you are the second treasurer to
  * Be marked as pending (i.e. a '!' sign)
  * Take money from the relevant `Liabilities` account.  If it isn't yet clear who the payee is yet, make it out to `Liabilities:unknown`.
  * Be tagged with the trac ticket number preceeded by a hash, e.g. '#1234'.
+ * Be dated with the date that the transaction was accepted by two treasurers.
 
 (`sr make_purchase` now outputs the lines to pump into ledger.)
 
