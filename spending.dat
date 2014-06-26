@@ -1984,3 +1984,17 @@
     Expenses:sr2014:competition:prizes			£460.80
     Liabilities:Howard Buck
     ; trac: #2498
+
+2014-06-26 ! Scan               ; Parts for battery profiling
+    Expenses:dev:battery-profiling			£11.46
+    Liabilities:unknown
+    ; trac: #2506
+
+2014-06-26 ! Farnell            ; Parts for battery profiling
+    Expenses:dev:battery-profiling			£18.72
+    Liabilities:unknown
+    ; trac: #2505
+
+2014-06-26 ! openDAQ            ; Parts for battery profiling
+    Liabilities:unknown
+    ; trac: #2507
