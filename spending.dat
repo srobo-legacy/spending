@@ -1996,5 +1996,6 @@
     ; trac: #2505
 
 2014-06-26 ! openDAQ            ; Parts for battery profiling
+    Expenses:dev:battery-profiling			£151.49
     Liabilities:unknown
     ; trac: #2507
