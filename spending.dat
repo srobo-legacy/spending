@@ -1980,6 +1980,76 @@
     ; trac: #2469
     ; receipt: ./receipts/2014/05/bennellick.pdf
 
+2014-05-14 ! KES team budget
+    * Liabilities:sr2014-kes                              £75.00
+    Assets:Barclays
+    ; cheque: 100211
+
+2014-05-15 ! CCR team budget
+    * Liabilities:sr2014-ccr                              £75.00
+    Assets:Barclays
+    ; cheque: 100213
+
+2014-05-15 ! LSS team budget
+    * Liabilities:sr2014-lss                              £57.64
+    Assets:Barclays
+    ; cheque: 100215
+
+2014-05-15 ! BWS team budget
+    * Liabilities:sr2014-bws                              £41.29
+    Assets:Barclays
+    ; cheque: 100216
+
+2014-05-15 ! CGS team budget
+    * Liabilities:sr2014-cgs                              £75.00
+    Assets:Barclays
+    ; cheque: 100217
+
+2014-05-15 ! GRD team budget
+    * Liabilities:sr2014-grd                              £75.00
+    Assets:Barclays
+    ; cheque: 100218
+
+2014-05-15 ! GYG team budget
+    * Liabilities:sr2014-gyg                              £33.89
+    Assets:Barclays
+    ; cheque: 100219
+
+2014-05-15 ! ICE team budget
+    * Liabilities:sr2014-ice                              £39.99
+    Assets:Barclays
+    ; cheque: 100220
+
+2014-05-15 ! MFG team budget
+    * Liabilities:sr2014-mfg                              £74.59
+    Assets:Barclays
+    ; cheque: 100221
+
+2014-05-15 ! JMS team budget
+    * Liabilities:sr2014-jms                              £50.78
+    Assets:Barclays
+    ; cheque: 100222
+
+2014-05-15 ! KDE team budget
+    * Liabilities:sr2014-kde                              £75.00
+    Assets:Barclays
+    ; cheque: 100223
+
+2014-05-15 ! TBG team budget
+    * Liabilities:sr2014-tbg                              £69.67
+    Assets:Barclays
+    ; cheque: 100225
+
+2014-05-15 ! TWG team budget
+    * Liabilities:sr2014-twg                              £72.74
+    Assets:Barclays
+    ; cheque: 100226
+
+2014-05-15 ! SWI team budget
+    * Liabilities:sr2014-swi                              £32.08
+    Assets:Barclays
+    ; cheque: 100227
+
 2014-06-10 ! The Printing House Ltd. ; Certificates for SR2014
     Expenses:sr2014:competition:prizes			£460.80
     Liabilities:Howard Buck
