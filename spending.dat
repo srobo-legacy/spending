@@ -2052,6 +2052,12 @@
     Assets:Barclays
     ; cheque: 100227
 
+2014-06-05 ! Newbury Racecourse   ; Clearing remaining debt
+    Expenses:sr2014:competition:venue-hire		£264
+    Assets:Barclays
+    ; cheque: 100230
+    ; receipt: ./receipts/2014/04/newbury-racecourse.jpg
+
 2014-06-10 ! The Printing House Ltd. ; Certificates for SR2014
     Expenses:sr2014:competition:prizes			£460.80
     Liabilities:Howard Buck
