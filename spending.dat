@@ -1990,6 +1990,11 @@
     Assets:Barclays
     ; cheque: 100211
 
+2014-05-15 ! Alistair Lynn
+    * Liabilities:alynn					£39.64
+    Assets:Barclays
+    ; cheque: 100207
+
 2014-05-15=2014-06-25 * CCR team budget
     Liabilities:sr2014-ccr                                £75.00
     Assets:Barclays
