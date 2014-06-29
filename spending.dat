@@ -2062,10 +2062,11 @@
     ; receipt: ./receipts/2014/04/newbury-racecourse.jpg
     ; trac: #2510
 
-2014-06-10 ! The Printing House Ltd. ; Certificates for SR2014
+2014-06-10 * The Printing House Ltd. ; Certificates for SR2014
     Expenses:sr2014:competition:prizes			£460.80
     Liabilities:Howard Buck
     ; trac: #2498
+    ; receipt: ./receipts/2014/06/the-printing-house.pdf
 
 2014-06=2014-06-10 * Tim Jones
     Liabilities:tjones					£387.04
