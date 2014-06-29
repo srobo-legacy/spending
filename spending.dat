@@ -1889,6 +1889,7 @@
     ! Expenses:sr2014:competition:venue-hire		£11625
     * Assets:Barclays
     ; cheque: 100202
+    ; receipt: ./receipts/2014/04/newbury-racecourse2.jpg
 
 2014-04-30 * PPL payment	; Jeremy paying PPL
     Liabilities:PPL					£58.88
