@@ -1781,10 +1781,11 @@
     ; trac: #2379
     ; receipts: ./receipts/2014/04/viking.pdf
 
-2014-04-13 ! GafferTape.com
+2014-04-13 * GafferTape.com
     Expenses:sr2014:competition:tape			£458.56
     Liabilities:rbarlow
     ; trac: #2381
+    ; receipts: ./receipts/2014/04/gaffertape.pdf
 
 2014-04-14 * eBuyer             ; Toner and SD cards for SR2014 comp
     Expenses:sr2014:competition:stationery		£42.83
