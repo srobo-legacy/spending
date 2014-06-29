@@ -1749,12 +1749,14 @@
     Liabilities:rspanton
     ; trac: #2375
     ; receipt: ./receipts/2014/04/itr.pdf
+    ; receipt: ./receipts/2014/04/itr-invoice.jpg
 
 2014-04-08 * Access points for internet distribution
     Expenses:sr2014:competition:network	£435.75
     Liabilities:rspanton
     ; trac: #2375
     ; receipt: ./receipts/2014/04/itr.pdf
+    ; receipt: ./receipts/2014/04/itr-invoice.jpg
 
 2014-04-08 * Carpet for arenas
     Expenses:sr2014:competition:arenas:carpet	£322.20
