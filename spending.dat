@@ -2080,3 +2080,8 @@
     * Liabilities:Harsco				£451.73
     Assets:Barclays
     ; TODO: This has been paid, but requires the cheque number
+
+2014-05 ! rspanton
+    * Liabilities:rspanton				£2496.91
+    Assets:Barclays
+    ; TODO: This has been paid, but requires the cheque number
