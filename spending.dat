@@ -1990,43 +1990,43 @@
     Assets:Barclays
     ; cheque: 100211
 
-2014-05-15 ! CCR team budget
-    * Liabilities:sr2014-ccr                              £75.00
+2014-05-15=2014-06-25 * CCR team budget
+    Liabilities:sr2014-ccr                                £75.00
     Assets:Barclays
     ; cheque: 100213
 
-2014-05-15 ! LSS team budget
-    * Liabilities:sr2014-lss                              £57.64
+2014-05-15=2014-06-23 * LSS team budget
+    Liabilities:sr2014-lss                                £57.64
     Assets:Barclays
     ; cheque: 100215
 
-2014-05-15 ! BWS team budget
-    * Liabilities:sr2014-bws                              £41.29
+2014-05-15=2014-06-12 * BWS team budget
+    Liabilities:sr2014-bws                                £41.29
     Assets:Barclays
     ; cheque: 100216
 
-2014-05-15 ! CGS team budget
-    * Liabilities:sr2014-cgs                              £75.00
+2014-05-15=2014-06-27 * CGS team budget
+    Liabilities:sr2014-cgs                              £75.00
     Assets:Barclays
     ; cheque: 100217
 
-2014-05-15 ! GRD team budget
-    * Liabilities:sr2014-grd                              £75.00
+2014-05-15=2014-06-16 * GRD team budget
+    Liabilities:sr2014-grd                                £75.00
     Assets:Barclays
     ; cheque: 100218
 
-2014-05-15 ! GYG team budget
-    * Liabilities:sr2014-gyg                              £33.89
+2014-05-15=2014-06-18 * GYG team budget
+    Liabilities:sr2014-gyg                                £33.89
     Assets:Barclays
     ; cheque: 100219
 
-2014-05-15 ! ICE team budget
-    * Liabilities:sr2014-ice                              £39.99
+2014-05-15=2014-06-18 * ICE team budget
+    Liabilities:sr2014-ice                                £39.99
     Assets:Barclays
     ; cheque: 100220
 
-2014-05-15 ! MFG team budget
-    * Liabilities:sr2014-mfg                              £74.59
+2014-05-15=2014-06-13 * MFG team budget
+    Liabilities:sr2014-mfg                                £74.59
     Assets:Barclays
     ; cheque: 100221
 
@@ -2035,36 +2035,42 @@
     Assets:Barclays
     ; cheque: 100222
 
-2014-05-15 ! KDE team budget
-    * Liabilities:sr2014-kde                              £75.00
+2014-05-15=2014-06-13 * KDE team budget
+    Liabilities:sr2014-kde                                £75.00
     Assets:Barclays
     ; cheque: 100223
 
-2014-05-15 ! TBG team budget
-    * Liabilities:sr2014-tbg                              £69.67
+2014-05-15=2014-06-18 * TBG team budget
+    Liabilities:sr2014-tbg                                £69.67
     Assets:Barclays
     ; cheque: 100225
 
-2014-05-15 ! TWG team budget
-    * Liabilities:sr2014-twg                              £72.74
+2014-05-15=2014-06-18 * TWG team budget
+    Liabilities:sr2014-twg                                £72.74
     Assets:Barclays
     ; cheque: 100226
 
-2014-05-15 ! SWI team budget
-    * Liabilities:sr2014-swi                              £32.08
+2014-05-15=2014-06-19 * SWI team budget
+    Liabilities:sr2014-swi                                £32.08
     Assets:Barclays
     ; cheque: 100227
 
-2014-06-05 ! Newbury Racecourse   ; Clearing remaining debt
+2014-06-05=2014-06-17 * Newbury Racecourse   ; Clearing remaining debt
     Expenses:sr2014:competition:venue-hire		£264
     Assets:Barclays
     ; cheque: 100230
     ; receipt: ./receipts/2014/04/newbury-racecourse.jpg
     ; trac: #2510
+
 2014-06-10 ! The Printing House Ltd. ; Certificates for SR2014
     Expenses:sr2014:competition:prizes			£460.80
     Liabilities:Howard Buck
     ; trac: #2498
+
+2014-06=2014-06-10 * Tim Jones
+    Liabilities:tjones					£387.04
+    Assets:Barclays
+    ; cheque: 100210
 
 2014-06-26 ! Scan               ; Parts for battery profiling
     Expenses:dev:battery-profiling			£11.46
@@ -2081,17 +2087,37 @@
     Liabilities:unknown
     ; trac: #2507
 
-2014-05 ! Bennellick Engineering Ltd ; Payment for lighting etc.
-    * Liabilities:Bennellick Engineering Ltd.		£7380
+2014-05=2014-06-12 * Bennellick Engineering Ltd ; Payment for lighting etc.
+    Liabilities:Bennellick Engineering Ltd.		£7380
     Assets:Barclays
-    ; TODO: This has been paid, but requires the cheque number
+    ; cheque: 100229
 
-2014-05 ! Harsco ; Payment for SR2014 scaff
-    * Liabilities:Harsco				£456.42
+2014-05 * Harsco ; Payment for SR2014 scaff
+    Liabilities:Harsco					£451.73
     Assets:Barclays
-    ; TODO: This has been paid, but requires the cheque number
+    ; Cheque: 100206
 
-2014-05 ! rspanton
-    * Liabilities:rspanton				£2496.91
+2014-05=2014-05-20 * rspanton
+    Liabilities:rspanton				£2496.91
     Assets:Barclays
-    ; TODO: This has been paid, but requires the cheque number
+    ; cheque: 100209
+
+2014-05=2014-06-16 * Jeremy Morse
+    Liabilities:jmorse					£305.69
+    Assets:Barclays
+    ; cheque: 100208
+
+2014-05=2014-06-25 * Joe Hacker
+    Liabilities:jhacker					£45.78
+    Assets:Barclays
+    ; cheque: 100228
+
+2014-06=2014-06-16 * Lilafisch
+    Liabilities:sr2014-lfg				£75
+    Assets:Barclays
+    ; cheque: 100212
+
+2014-06=2014-06-13 * Team KDE
+    Liabilities:sr2014-kde				£75
+    Assets:Barclays
+    ; cheque: 100223
