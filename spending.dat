@@ -1890,6 +1890,7 @@
     * Assets:Barclays
     ; cheque: 100202
     ; receipt: ./receipts/2014/04/newbury-racecourse2.jpg
+    ; trac: #2510
 
 2014-04-30 * PPL payment	; Jeremy paying PPL
     Liabilities:PPL					£58.88
@@ -2057,7 +2058,7 @@
     Assets:Barclays
     ; cheque: 100230
     ; receipt: ./receipts/2014/04/newbury-racecourse.jpg
-
+    ; trac: #2510
 2014-06-10 ! The Printing House Ltd. ; Certificates for SR2014
     Expenses:sr2014:competition:prizes			£460.80
     Liabilities:Howard Buck
