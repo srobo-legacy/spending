@@ -1739,7 +1739,7 @@
     ; receipt: ./receipts/2014/04/receipts-lss.pdf
 
 2014-04-08 * Scaffolding
-    Expenses:sr2014:competition:arenas:scaff-hire	£451.73
+    Expenses:sr2014:competition:arenas:scaff-hire	£456.42
     Liabilities:Harsco
     ; trac: #2374
     ; receipt: ./receipts/2014/04/harsco-invoice.jpg
@@ -2077,7 +2077,7 @@
     ; TODO: This has been paid, but requires the cheque number
 
 2014-05 ! Harsco ; Payment for SR2014 scaff
-    * Liabilities:Harsco				£451.73
+    * Liabilities:Harsco				£456.42
     Assets:Barclays
     ; TODO: This has been paid, but requires the cheque number
 
