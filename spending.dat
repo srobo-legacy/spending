@@ -2123,11 +2123,6 @@
     Assets:Barclays
     ; cheque: 100212
 
-2014-06=2014-06-13 * Team KDE
-    Liabilities:sr2014-kde				£75
-    Assets:Barclays
-    ; cheque: 100223
-
 2014-07-04 ! Robot parts for RED team budget
     Expenses:sr2014:team-budget	£75.00
     Liabilities:RED Teacher
