@@ -2133,3 +2133,9 @@
     Liabilities:RED Teacher
     ; trac: #2512
     ; receipt: 2014/04/receipts-red.pdf
+
+2014-07-08 * SR2014 arena wall material
+    Expenses:sr2014:competition:props                  £199.68
+    Liabilities:Lancaster and Tomkinson Ltd.
+    ; trac: #2509
+    ; receipt: ./receipts/2014/04/arena-wall-material.pdf
