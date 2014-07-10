@@ -2141,3 +2141,18 @@
     Liabilities:Lancaster and Tomkinson Ltd.
     ; trac: #2509
     ; receipt: ./receipts/2014/04/arena-wall-material.pdf
+
+2014-07-08 ! Howard Buck
+    * Liabilities:Howard Buck				£460.80
+    Assets:Barclays
+    ; cheque: 100231
+
+2014-07-08 ! Lancaster Tomkinson Ltd
+    * Liabilities:Lancaster and Tomkinson Ltd.		£199.68
+    Assets:Barclays
+    ; cheque: 100233
+
+2014-07-08 ! Team RED
+    * Liabilities:sr2014-red				£75
+    Assets:Barclays
+    ; cheque: 100236
