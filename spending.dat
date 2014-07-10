@@ -2083,10 +2083,17 @@
     Liabilities:unknown
     ; trac: #2506
 
-2014-06-26 ! Farnell            ; Parts for battery profiling
-    Expenses:dev:battery-profiling			£22.22
-    Liabilities:unknown
+2014-06-26 * Farnell            ; Parts for battery profiling
+    Expenses:dev:battery-profiling			£13.14
+    Liabilities:tward
     ; trac: #2505
+    ; receipt: ./receipts/2014/07/farnell-tyler-1.pdf
+
+2014-06-26 * Farnell            ; Parts for battery profiling
+    Expenses:dev:battery-profiling			£1.20
+    Liabilities:tward
+    ; trac: #2505
+    ; receipt: ./receipts/2014/07/farnell-tyler-2.pdf
 
 2014-06-26 ! openDAQ            ; Parts for battery profiling
     Expenses:dev:battery-profiling			£157.14
