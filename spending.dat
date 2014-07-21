@@ -1721,10 +1721,11 @@
     ; trac: #2366
     ; receipt: ./receipts/2014/04/receipts-lfg.pdf
 
-2014/04/04 ! T-Shirts
+2014/04/04 * T-Shirts
     Expenses:sr2014:clothing			£88
     Liabilities:lilafisch
     ; trac: #2371
+    ; receipt: ./receipts/2014/04/signature-leisurewear.jpg
 
 2014-04-05 * CCR team budget
     Expenses:sr2014:team-budget			£75.00
