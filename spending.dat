@@ -1891,9 +1891,10 @@
     Assets:Barclays
     ; cheque: 100201
 
-2014-04-29 Newbury Racecourse
-    ! Expenses:sr2014:competition:venue-hire		£11625
-    * Assets:Barclays
+2014-04-29=2014-04-29 * Newbury Racecourse
+    Expenses:sr2014:competition:venue-hire
+    Liabilities:Newbury Racecourse			-£759
+    * Assets:Barclays					-£11625
     ; cheque: 100202
     ; receipt: ./receipts/2014/04/newbury-racecourse2.jpg
     ; trac: #2510
