@@ -1740,10 +1740,13 @@
     ; receipt: ./receipts/2014/04/receipts-lss.pdf
 
 2014-04-08 * Scaffolding
-    Expenses:sr2014:competition:arenas:scaff-hire	£456.42
+    Expenses:sr2014:competition:arenas:scaff-hire	£451.73
     Liabilities:Harsco
     ; trac: #2374
     ; receipt: ./receipts/2014/04/harsco-invoice.jpg
+    ; Note that this is £4.69 less than the amount requested in
+    ; Harsco's invoice.  Rob Spanton paid them this £4.69 difference,
+    ; and can't be bothered to claim that back off SR.
 
 2014-04-08 * Displays for the arena, and also freestanding big screens.
     Expenses:sr2014:competition:displays:hire	£702.00
