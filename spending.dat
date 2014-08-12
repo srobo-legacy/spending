@@ -2102,10 +2102,12 @@
     ; trac: #2505
     ; receipt: ./receipts/2014/07/farnell-tyler-2.pdf
 
-2014-06-26 ! openDAQ            ; Parts for battery profiling
-    Expenses:dev:battery-profiling			£157.14
+2014-06-26 * openDAQ            ; Parts for battery profiling
+    Expenses:dev:battery-profiling			£147.46
     Liabilities:gkaratziolas
     ; trac: #2507
+    ; receipt: ./receipts/2014/06/opendaq-post.jpg
+    ; receipt: ./receipts/2014/06/opendaq-order.pdf
 
 2014-05=2014-06-12 * Bennellick Engineering Ltd ; Payment for lighting etc.
     Liabilities:Bennellick Engineering Ltd.		£7380
