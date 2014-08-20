@@ -2176,6 +2176,11 @@
     Assets:Barclays
     ; cheque: 100239
 
+2014-07-14 ! Giorgos Karatziolas
+    Expenses:dev:battery-profiling			£28.21
+    Liabilities:gkaratziolas
+    ; trac: #2516
+
 2014-07-15 ! Giorgos Karatziolas
     * Liabilities:gkaratziolas				£11.46
     Assets:Barclays
