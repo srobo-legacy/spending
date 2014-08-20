@@ -2176,10 +2176,12 @@
     Assets:Barclays
     ; cheque: 100239
 
-2014-07-14 ! Giorgos Karatziolas
+2014-07-14 * Giorgos Karatziolas
     Expenses:dev:battery-profiling			£28.21
     Liabilities:gkaratziolas
     ; trac: #2516
+    ; receipt: ./receipts/2014/07/farnell-giorgos-1.pdf
+    ; receipt: ./receipts/2014/07/farnell-giorgos-2.pdf
 
 2014-07-15 ! Giorgos Karatziolas
     * Liabilities:gkaratziolas				£11.46
