@@ -2040,8 +2040,8 @@
     Assets:Barclays
     ; cheque: 100221
 
-2014-05-15 ! JMS team budget
-    * Liabilities:sr2014-jms                              £50.78
+2014-05-15=2014-07-06 * JMS team budget
+    Liabilities:sr2014-jms                              £50.78
     Assets:Barclays
     ; cheque: 100222
 
@@ -2156,8 +2156,8 @@
     Assets:Barclays
     ; cheque: 100231
 
-2014-07-08 ! Lancaster Tomkinson Ltd
-    * Liabilities:Lancaster and Tomkinson Ltd.		£199.68
+2014-07-08=2014-07-30 * Lancaster Tomkinson Ltd
+    Liabilities:Lancaster and Tomkinson Ltd.		£199.68
     Assets:Barclays
     ; cheque: 100233
 
@@ -2183,8 +2183,8 @@
     ; receipt: ./receipts/2014/07/farnell-giorgos-1.pdf
     ; receipt: ./receipts/2014/07/farnell-giorgos-2.pdf
 
-2014-07-15 ! Giorgos Karatziolas
-    * Liabilities:gkaratziolas				£11.46
+2014-07-15=2014-07-20 * Giorgos Karatziolas
+    Liabilities:gkaratziolas				£11.46
     Assets:Barclays
     ; cheque: 100238
 
@@ -2193,11 +2193,11 @@
     Assets:Barclays
     ; cheque: 100237
 
-2014-08-11 ! School of Electronics and Computer Science
+2014-08-11 * School of Electronics and Computer Science
     Assets:Barclays					£16850
     Income:ECS
 
-2014-08-14 ! Giorgos Karatziolas
+2014-08-14=2014-08-20 * Giorgos Karatziolas
     * Liabilities:gkaratziolas				£147.46
     Assets:Barclays
     ; cheque: 100241
