@@ -1990,13 +1990,13 @@
     ; trac: #2469
     ; receipt: ./receipts/2014/05/bennellick.pdf
 
-2014-05-14 ! KES team budget
-    * Liabilities:sr2014-kes                              £75.00
+2014-05-14=2014-06-01 * KES team budget
+    Liabilities:sr2014-kes                              £75.00
     Assets:Barclays
     ; cheque: 100211
 
-2014-05-15 ! Alistair Lynn
-    * Liabilities:alynn					£39.64
+2014-05-15=2014-06-30 * Alistair Lynn
+    Liabilities:alynn					£39.64
     Assets:Barclays
     ; cheque: 100207
 
@@ -2151,8 +2151,8 @@
     ; trac: #2509
     ; receipt: ./receipts/2014/04/arena-wall-material.pdf
 
-2014-07-08 ! Howard Buck
-    * Liabilities:Howard Buck				£460.80
+2014-07-08=2014-07-22 * Howard Buck
+    Liabilities:Howard Buck				£460.80
     Assets:Barclays
     ; cheque: 100231
 
@@ -2161,13 +2161,13 @@
     Assets:Barclays
     ; cheque: 100233
 
-2014-07-08 ! Team RED
-    * Liabilities:sr2014-red				£75
+2014-07-08 * Team RED
+    Liabilities:sr2014-red				£75
     Assets:Barclays
     ; cheque: 100236
 
-2014-07-08 ! Richard Barlow
-    * Liabilities:rbarlow                               £462.18
+2014-07-08=2014-07-15 * Richard Barlow
+    Liabilities:rbarlow                               £462.18
     Assets:Barclays
     ; cheque: 100234
 
