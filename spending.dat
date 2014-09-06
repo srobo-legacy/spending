@@ -2193,6 +2193,10 @@
     Assets:Barclays
     ; cheque: 100237
 
+2014-08-11 ! School of Electronics and Computer Science
+    Assets:Barclays					£16850
+    Income:ECS
+
 2014-08-14 ! Giorgos Karatziolas
     * Liabilities:gkaratziolas				£147.46
     Assets:Barclays
