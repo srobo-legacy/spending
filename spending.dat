@@ -2246,3 +2246,8 @@
     Expenses:sr2015:kits:servo:cases			£266.88
     Liabilities:rbarlow
     ; trac: #2570
+
+2014-09-11 ! ODROID-U3s and parts from Hardkernel
+    Expenses:sr2015:kits:brain:odroid			£4825.79
+    Liabilities:jmorse
+    ; trac: #2571
