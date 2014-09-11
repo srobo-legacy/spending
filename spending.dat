@@ -2237,15 +2237,23 @@
     Liabilities:rbarlow
     ; trac: #2569
 
-2014-09-10 ! Cases for PBv4B for SR2015
-    Expenses:sr2015:kits:power:cases			£278.40
+2014-09-10 * Cases for PBv4B for SR2015
+    Expenses:sr2015:kits:power:cases			£290.40
     Liabilities:rbarlow
     ; trac: #2570
+    ; receipt: ./receipts/2014/09/K2A-pbv4b-sbv4b-cases.pdf
+    ; Note that the invoice for this and the following transaction
+    ; indicates that we have credit with K2A. This is for same-day
+    ; couriering of Ruggeduino cases in 2013. rbarlow paid for the
+    ; courier and never claimed that back from SR. Hence, from SRs
+    ; point of view, we owe K2A the full invoice amount.
 
-2014-09-10 ! Cases for SBv4B
-    Expenses:sr2015:kits:servo:cases			£266.88
+2014-09-10 * Cases for SBv4B
+    Expenses:sr2015:kits:servo:cases			£278.88
     Liabilities:rbarlow
     ; trac: #2570
+    ; receipt: ./receipts/2014/09/K2A-pbv4b-sbv4b-cases.pdf
+    ; See comment on previous trasaction.
 
 2014-09-11 ! ODROID-U3s and parts from Hardkernel
     Expenses:sr2015:kits:brain:odroid			£4825.79
