@@ -2262,10 +2262,18 @@
     ; receipt: ./receipts/2014/09/K2A-pbv4b-sbv4b-cases.pdf
     ; See comment on previous trasaction.
 
-2014-09-11 ! ODROID-U3s and parts from Hardkernel
-    Expenses:sr2015:kits:brain:odroid			£4825.79
+2014-09-11 * ODROID-U3s and parts from Hardkernel
+    Expenses:sr2015:kits:brain:odroid			£3966.11
     Liabilities:jmorse
     ; trac: #2571
+    ; receipt: ./receipts/2014/09/hardkernel.pdf
+    ; receipt: ./receipts/2014/09/hardkernel-paypal.pdf
+
+2014-09-11 ! ODROID-U3s and parts from Hardkernel
+    Expenses:sr2015:kits:brain:odroid			£859.68
+    Liabilities:jmorse
+    ; trac: #2571
+    ; This is still open, as there will likely be fees relating to import
 
 2014-09-14 ! BPV Budget
     * Liabilities:sr2014-bpv				£72.02
