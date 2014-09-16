@@ -2041,7 +2041,7 @@
     Assets:Barclays
     ; cheque: 100221
 
-2014-05-15=2014-07-06 * JMS team budget
+2014-05-15=2014-08-06 * JMS team budget
     Liabilities:sr2014-jms                              £50.78
     Assets:Barclays
     ; cheque: 100222
@@ -2184,7 +2184,7 @@
     ; receipt: ./receipts/2014/07/farnell-giorgos-1.pdf
     ; receipt: ./receipts/2014/07/farnell-giorgos-2.pdf
 
-2014-07-15=2014-07-20 * Giorgos Karatziolas
+2014-07-15=2014-08-20 * Giorgos Karatziolas
     Liabilities:gkaratziolas				£11.46
     Assets:Barclays
     ; cheque: 100238
