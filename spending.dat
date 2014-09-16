@@ -2279,3 +2279,8 @@
     * Liabilities:sr2014-bpv				£72.02
     Assets:Barclays
     ; cheque: 100243
+
+2014-09-11 ! Tablets for SR2015 kit
+    Expenses:sr2015:kits:tablet				£3347.52
+    Liabilities:Student Robotics
+    ; trac: #2572
