@@ -1710,10 +1710,11 @@
     ; trac: #2365
     ; receipt: ./receipts/2014/04/receipts-kes.pdf
 
-2014/04/01 ! BPV team budget
+2014/04/01 * BPV team budget
     Expenses:sr2014:team-budget			£72.02
     Liabilities:sr2014-bpv
     ; trac: #2367
+    ; receipt: ./receipts/2014/05/receipts-bpv.pdf
 
 2014/04/01 * LFG team budget
     Expenses:sr2014:team-budget			£75.00
@@ -2265,3 +2266,8 @@
     Expenses:sr2015:kits:brain:odroid			£4825.79
     Liabilities:jmorse
     ; trac: #2571
+
+2014-09-14 ! BPV Budget
+    * Liabilities:sr2014-bpv				£72.02
+    Assets:Barclays
+    ; cheque: 100243
