@@ -2287,7 +2287,8 @@
     ; receipt: ./receipts/2014/09/entatech-sample.pdf
     ; This is the sample unit that Rob bought
 
-2014-09-11 ! Tablets for SR2015 kit
-    Expenses:sr2015:kits:tablet				£3302.28
+2014-09-11 * Tablets for SR2015 kit
+    Expenses:sr2015:kits:tablet				£3011.16
     Liabilities:jmorse
     ; trac: #2572
+    ; receipt: ./receipts/2014/09/entatech-tablets.pdf
