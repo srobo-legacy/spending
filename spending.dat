@@ -2292,3 +2292,8 @@
     Liabilities:jmorse
     ; trac: #2572
     ; receipt: ./receipts/2014/09/entatech-tablets.pdf
+
+2014-09-18 ! jmorse
+    * Liabilities:jmorse				£6977.27
+    Assets:Barclays
+    ; cheque: 100244
