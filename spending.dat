@@ -2296,3 +2296,9 @@
     * Liabilities:jmorse				£6977.27
     Assets:Barclays
     ; cheque: 100244
+
+2014-10-04 ! Stickers for SR2015 kits
+    Expenses:sr2015:kits:power:cases			£59.26
+    Expenses:sr2015:kits:servo:cases			£30.44
+    Liabilities:rbarlow
+    ; trac: #2581
