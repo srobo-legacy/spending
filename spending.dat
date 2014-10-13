@@ -2302,3 +2302,8 @@
     Expenses:sr2015:kits:servo:cases			£30.44
     Liabilities:rbarlow
     ; trac: #2581
+
+2014-10-13 ! Micro USB Cables for SR2015 kits
+    Expenses:sr2015:kits:usb-cables			£347.76
+    Liabilities:rspanton
+    ; trac: #2612
