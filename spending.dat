@@ -2309,7 +2309,10 @@
     ; trac: #2612
 
 2014-10-14 ! Wifi dongles for kits
-    Expenses:sr2015:kits:wifi                           £1682.40
+    Expenses:sr2015:kits:wifi                           £8.70
+    ; receipt: ./receipts/2014/10/entatech-sample-wifi.pdf
+    Expenses:sr2015:kits:wifi                           £1673.70
+    ; no receipt for this part yet
     Liabilities:jmorse
     ; trac: #2614
 
