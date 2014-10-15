@@ -2330,3 +2330,13 @@
     ; Note that the notebook in the order was not for SR, hence
     ; the difference between the value of this transaction and
     ; the receipt.
+
+2014-10-15 ! Nuts and bolts for SR2015 mech kit
+    Expenses:sr2015:kits:mech:bits			£625
+    Liabilities:rspanton
+    ; trac: #2619
+
+2014-10-15 ! Wire for SR2015 kits
+    Expenses:sr2015:kits:wire				£405.94
+    Liabilities:rspanton
+    ; trac: #2618
