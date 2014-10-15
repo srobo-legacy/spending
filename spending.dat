@@ -2313,7 +2313,8 @@
     Liabilities:jmorse
     ; trac: #2614
 
-2014-10-15 ! Shipping of pallet to Bristol
+2014-10-15 * Shipping of pallet to Bristol
     Expenses:sr2015:kickstart:shipping:courier		£116.91
     Liabilities:rspanton
     ; trac: #2616
+    ; receipt: ./receipts/2014/10/speedshift.pdf
