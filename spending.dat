@@ -2318,3 +2318,12 @@
     Liabilities:rspanton
     ; trac: #2616
     ; receipt: ./receipts/2014/10/speedshift.pdf
+
+2014-10-15 * Bubble wrap for packing 23 kits
+    Expenses:sr2015:bubble-wrap				£34.17
+    Liabilities:rspanton
+    ; trac: #2617
+    ; receipt: ./receipts/2014/10/viking.pdf
+    ; Note that the notebook in the order was not for SR, hence
+    ; the difference between the value of this transaction and
+    ; the receipt.
