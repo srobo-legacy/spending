@@ -2312,3 +2312,8 @@
     Expenses:sr2015:kits:wifi                           £1682.40
     Liabilities:jmorse
     ; trac: #2614
+
+2014-10-15 ! Shipping of pallet to Bristol
+    Expenses:sr2015:kickstart:shipping:courier		£116.91
+    Liabilities:rspanton
+    ; trac: #2616
