@@ -2338,12 +2338,12 @@
 
 2014-10-15 ! Nuts and bolts for SR2015 mech kit
     Expenses:sr2015:kits:mech:bits			£625
-    Liabilities:rspanton
+    Liabilities:jmorse
     ; trac: #2619
 
 2014-10-15 ! Wire for SR2015 kits
     Expenses:sr2015:kits:wire				£405.94
-    Liabilities:rspanton
+    Liabilities:jmorse
     ; trac: #2618
 
 2014-10-15 ! Cable ties for SR2015
