@@ -2303,16 +2303,21 @@
     Liabilities:rbarlow
     ; trac: #2581
 
-2014-10-13 ! Micro USB Cables for SR2015 kits
-    Expenses:sr2015:kits:usb-cables			£347.76
+2014-10-13 * Micro USB Cables for SR2015 kits
+    Expenses:sr2015:kits:usb-cables			£350.04
+    Liabilities:jmorse					-£347.76
+    ; rspanton paid the remainder:
     Liabilities:rspanton
     ; trac: #2612
+    ; page 2 of:
+    ; receipt: ./receipts/2014/10/entatech-wifi-and-usb.pdf
 
-2014-10-14 ! Wifi dongles for kits
+2014-10-14 * Wifi dongles for kits
     Expenses:sr2015:kits:wifi                           £8.70
     ; receipt: ./receipts/2014/10/entatech-sample-wifi.pdf
-    Expenses:sr2015:kits:wifi                           £1673.70
-    ; no receipt for this part yet
+    Expenses:sr2015:kits:wifi                           £1665.96
+    ; page 1 of:
+    ; receipt: ./receipts/2014/10/entatech-wifi-and-usb.pdf
     Liabilities:jmorse
     ; trac: #2614
 
