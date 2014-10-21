@@ -2336,15 +2336,17 @@
     ; the difference between the value of this transaction and
     ; the receipt.
 
-2014-10-15 ! Nuts and bolts for SR2015 mech kit
+2014-10-15 * Nuts and bolts for SR2015 mech kit
     Expenses:sr2015:kits:mech:bits			£625
     Liabilities:jmorse
     ; trac: #2619
+    ; receipt: ./receipts/2014/10/farnell-1.pdf
 
-2014-10-15 ! Wire for SR2015 kits
-    Expenses:sr2015:kits:wire				£405.94
+2014-10-15 * Wire for SR2015 kits
+    Expenses:sr2015:kits:wire				£405.93
     Liabilities:jmorse
     ; trac: #2618
+    ; receipt: ./receipts/2014/10/farnell-1.pdf
 
 2014-10-15 ! Cable ties for SR2015
     Expenses:sr2015:kits:mech:bits	£106.20
