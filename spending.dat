@@ -2208,10 +2208,11 @@
     Assets:Barclays
     ; cheque: 100242
 
-2014-09-10 ! PCBs and Assembly of PBv4B for SR2015
-    Expenses:sr2015:kits:power:pcbs			£3564.54
+2014-09-10 * PCBs and Assembly of PBv4B for SR2015
+    Expenses:sr2015:kits:power:pcbs			£3582.54
     Liabilities:Garner Osbourne
     ; trac: #2564
+    ; receipt: ./receipts/2014/10/pbv4_go_invoice.pdf
 
 2014-09-10 ! PCBs and Assembly of SBv4B for SR2015
     Expenses:sr2015:kits:servo:pcbs			£2861.22
