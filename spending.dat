@@ -2214,10 +2214,11 @@
     ; trac: #2564
     ; receipt: ./receipts/2014/10/pbv4_go_invoice.pdf
 
-2014-09-10 ! PCBs and Assembly of SBv4B for SR2015
+2014-09-10 * PCBs and Assembly of SBv4B for SR2015
     Expenses:sr2015:kits:servo:pcbs			£2861.22
     Liabilities:Garner Osbourne
     ; trac: #2565
+    ; receipt: ./receipts/2014/10/sbv4_go_invoice.pdf
 
 2014-09-10 ! Farnell components for PBv4B for SR2015
     Expenses:sr2015:kits:power:components		£2476.46
