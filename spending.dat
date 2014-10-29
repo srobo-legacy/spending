@@ -2220,17 +2220,19 @@
     ; trac: #2565
     ; receipt: ./receipts/2014/10/sbv4_go_invoice.pdf
 
-2014-09-10 * Farnell components for PBv4B and SBv4B for SR2015
-    Expenses:sr2015:kits:power:components		£2463.30
-    Expenses:sr2015:kits:servo:components		£1650.98
+2014-09-10 ! Farnell components for PBv4B and SBv4B for SR2015
+    Expenses:sr2015:kits:power:components		£2555.10
+    Expenses:sr2015:kits:servo:components		£1712.68
     Liabilities:rbarlow
     ; trac: #2567
+    ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b-cases.pdf
     ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_1.pdf
     ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_2.pdf
     ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_3.pdf
     ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_4.pdf
+    ; Still pending budget munging for final component orders
 
-2014-09-10 * Mouser components for PBv4B and SBv4B for SR2015
+2014-09-10 ! Mouser components for PBv4B and SBv4B for SR2015
     Expenses:sr2015:kits:power:components		£773.13
     Expenses:sr2015:kits:servo:components		£515.42
     Liabilities:rbarlow
@@ -2238,6 +2240,7 @@
     ; receipt: ./receipts/2014/09/Mouser-pbv4b-sbv4b-1.pdf
     ; receipt: ./receipts/2014/09/Mouser-pbv4b-sbv4b-2.pdf
     ; receipt: ./receipts/2014/09/Mouser-pbv4b-sbv4b-3.pdf
+    ; Still pending budget munging for final component orders
 
 2014-09-10 * RS components for PBv4B for SR2015
     Expenses:sr2015:kits:power:components		£85.14
@@ -2374,3 +2377,11 @@
     * Liabilities:Garner Osbourne			£6443.76
     Assets:Barclays
     ; cheque: 100245
+
+2014-10-29 ! Digikey components for PBv4B for SR2015
+    Expenses:sr2015:kits:power:components		£131.57
+    Liabilities:rbarlow
+    ; receipt: ./receipts/2014/09/Digikey-pbv4b.pdf
+    ; Still pending budget munging for final component orders
+    ; This requires a trac ticket (the transaction is
+    ; to help untangle the mess and keep a record)
