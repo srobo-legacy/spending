@@ -2299,11 +2299,15 @@
     Assets:Barclays
     ; cheque: 100244
 
-2014-10-04 ! Stickers for SR2015 kits
+2014-10-04 * Stickers for SR2015 kits
     Expenses:sr2015:kits:power:cases			£59.26
     Expenses:sr2015:kits:servo:cases			£30.44
     Liabilities:rbarlow
     ; trac: #2581
+    ; receipt: ./receipts/2014/10/pbv4_sbv4_diginate.pdf
+    ; Note that two extra of each sticker were ordered, this
+    ; wasn't part of the approved spend so is not included
+    ; in the transaction
 
 2014-10-13 * Micro USB Cables for SR2015 kits
     Expenses:sr2015:kits:usb-cables			£350.04
