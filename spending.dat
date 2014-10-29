@@ -2220,15 +2220,15 @@
     ; trac: #2565
     ; receipt: ./receipts/2014/10/sbv4_go_invoice.pdf
 
-2014-09-10 ! Farnell components for PBv4B for SR2015
-    Expenses:sr2015:kits:power:components		£2476.46
-    Liabilities:rbarlow
-    ; trac: #2567
-
-2014-09-10 ! Farnell components for SBv4B for SR2015
+2014-09-10 * Farnell components for PBv4B and SBv4B for SR2015
+    Expenses:sr2015:kits:power:components		£2463.30
     Expenses:sr2015:kits:servo:components		£1650.98
     Liabilities:rbarlow
     ; trac: #2567
+    ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_1.pdf
+    ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_2.pdf
+    ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_3.pdf
+    ; receipt: ./receipts/2014/09/Farnell-pbv4b-sbv4b_4.pdf
 
 2014-09-10 * Mouser components for PBv4B and SBv4B for SR2015
     Expenses:sr2015:kits:power:components		£773.13
