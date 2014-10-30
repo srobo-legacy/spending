@@ -2273,11 +2273,11 @@
     ; receipt: ./receipts/2014/09/hardkernel.pdf
     ; receipt: ./receipts/2014/09/hardkernel-paypal.pdf
 
-2014-09-11 ! ODROID-U3s and parts from Hardkernel
-    Expenses:sr2015:kits:brain:odroid			£859.68
+2014-09-18 * Import and UPS fees for ODROID-U3s
+    Expenses:sr2015:kits:brain:odroid			£770.37
     Liabilities:jmorse
     ; trac: #2571
-    ; This is still open, as there will likely be fees relating to import
+    ; receipt: ./receipts/2014/09/ups.pdf
 
 2014-09-14 ! BPV Budget
     * Liabilities:sr2014-bpv				£72.02
