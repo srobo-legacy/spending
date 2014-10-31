@@ -2362,11 +2362,12 @@
     Liabilities:jmorse
     ; trac: #2620
 
-2014-10-16 ! Camcons and battery cable mod for SR2015
+2014-10-16 * Camcons and battery cable mod for SR2015
     Expenses:sr2015:kits:camcons                        £241.44
     Expenses:sr2015:kits:batteries:cables               £26.10
     Liabilities:rbarlow
     ; trac: #2621
+    ; receipt: ./receipts/2014/10/farnell-camcons-etc.pdf
 
 2014-10-22 Jeremy Morse
     * Liabilities:jmorse				£3053.35
