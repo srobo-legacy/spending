@@ -2386,11 +2386,3 @@
     ; Still pending budget munging for final component orders
     ; This requires a trac ticket (the transaction is
     ; to help untangle the mess and keep a record)
-
-2014-10-30 ! Mouser STF202 for SBv4B for SR2015
-    Expenses:sr2015:kits:servo:components		£45.70
-    Liabilities:rbarlow
-    ; receipt: ./receipts/2014/09/Mouser-stf202.pdf
-    ; Still pending budget munging for final component orders
-    ; This requires a trac ticket (the transaction is
-    ; to help untangle the mess and keep a record)
