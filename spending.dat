@@ -2387,3 +2387,8 @@
     ; Still pending budget munging for final component orders
     ; This requires a trac ticket (the transaction is
     ; to help untangle the mess and keep a record)
+
+2014-11-01 Jeremy Morse
+    * Liabilities:jmorse				£770.37
+    Assets:Barclays
+    ; cheque: 100248
