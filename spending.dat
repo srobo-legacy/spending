@@ -2189,8 +2189,8 @@
     Assets:Barclays
     ; cheque: 100238
 
-2014-07-15 ! Tyler Ward
-    * Liabilities:tward					£14.34
+2014-07-15=2014-09-17 * Tyler Ward
+    Liabilities:tward					£14.34
     Assets:Barclays
     ; cheque: 100237
 
@@ -2203,8 +2203,8 @@
     Assets:Barclays
     ; cheque: 100241
 
-2014-09-01 ! Giorgos Karatziolas
-    * Liabilities:gkaratziolas				£28.21
+2014-09-01=2014-09-18 * Giorgos Karatziolas
+    Liabilities:gkaratziolas				£28.21
     Assets:Barclays
     ; cheque: 100242
 
@@ -2296,8 +2296,8 @@
     ; trac: #2572
     ; receipt: ./receipts/2014/09/entatech-tablets.pdf
 
-2014-09-18 ! jmorse
-    * Liabilities:jmorse				£6977.27
+2014-09-18=2014-09-25 * jmorse
+    Liabilities:jmorse					£6977.27
     Assets:Barclays
     ; cheque: 100244
 
