@@ -2172,8 +2172,8 @@
     Assets:Barclays
     ; cheque: 100234
 
-2014-07-14 ! Lilafisch
-    * Liabilities:lilafisch				£88
+2014-07-14=2014-10-02 * Lilafisch
+    Liabilities:lilafisch				£88
     Assets:Barclays
     ; cheque: 100239
 
@@ -2278,8 +2278,8 @@
     ; trac: #2571
     ; receipt: ./receipts/2014/09/ups.pdf
 
-2014-09-14 ! BPV Budget
-    * Liabilities:sr2014-bpv				£72.02
+2014-09-14=2014-10-22 * BPV Budget
+    Liabilities:sr2014-bpv				£72.02
     Assets:Barclays
     ; cheque: 100243
 
