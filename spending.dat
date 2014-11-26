@@ -2393,3 +2393,9 @@
     * Liabilities:rbarlow				£744.12
     Assets:Barclays
     ; cheque: 100247
+
+2014-11-26 * Lilafisch
+    Expenses:sr2015:kickstart:shipping:overseas		£103.70
+    Liabilities:lilafisch
+    ; trac: #2782
+    ; receipt: ./receipts/2014/11/fedex-p1.pdf
