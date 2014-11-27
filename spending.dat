@@ -2356,10 +2356,11 @@
     ; trac: #2618
     ; receipt: ./receipts/2014/10/farnell-1.pdf
 
-2014-10-15 ! Cable ties for SR2015
+2014-10-15 * Cable ties for SR2015
     Expenses:sr2015:kits:mech:bits	£106.20
     Liabilities:jmorse
     ; trac: #2620
+    ; receipt: ./receipts/2014/10/cable_ties.pdf
 
 2014-10-16 * Camcons and battery cable mod for SR2015
     Expenses:sr2015:kits:camcons                        £241.44
