@@ -2399,3 +2399,18 @@
     Liabilities:lilafisch
     ; trac: #2782
     ; receipt: ./receipts/2014/11/fedex-p1.pdf
+
+2014-11-27 Richard Barlow
+    * Liabilities:rbarlow                               £6101.07
+    Assets:Barclays
+    ; cheque: 100249
+
+2014-11-27 Lilafisch
+    * Liabilities:lilafisch                             £103.70
+    Assets:Barclays
+    ; cheque: 100250
+
+2014-11-27 Robert Spanton
+    * Liabilities:rspanton                              £198.60
+    Assets:Barclays
+    ; cheque: 100251
