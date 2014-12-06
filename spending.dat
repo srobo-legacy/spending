@@ -2406,12 +2406,12 @@
     Assets:Barclays
     ; cheque: 100249
 
-2014-11-27 Lilafisch
-    * Liabilities:lilafisch                             £103.70
+2014-11-27 * Lilafisch
+    Liabilities:lilafisch                             £103.70
     Assets:Barclays
     ; cheque: 100250
 
-2014-11-27 Robert Spanton
-    * Liabilities:rspanton                              £198.60
+2014-11-27 * Robert Spanton
+    Liabilities:rspanton                              £198.60
     Assets:Barclays
     ; cheque: 100251
