@@ -2427,3 +2427,9 @@
     Liabilities:jmorse
     ; trac: #2803
     ; receipt: ./receipts/2014/12/ssl-certificate.pdf
+
+2014-12-10 * Kit and letters sent in the name of SR during sr2014
+    Expenses:sr2014:emergency-shipping  £78.43
+    Liabilities:jmorse
+    ; trac: #2801
+    ; receipt: ./receipts/2014/12/mail-from-2014.pdf
