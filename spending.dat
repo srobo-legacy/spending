@@ -2416,12 +2416,14 @@
     Assets:Barclays
     ; cheque: 100251
 
-2014-12-10 ! Li-Po caution stickers, for shipments
+2014-12-10 * Li-Po caution stickers, for shipments
     Expenses:sr2014:emergency-shipping  £18.73
     Liabilities:jmorse
     ; trac: #2802
+    ; receipt: ./receipts/2014/12/lipo-stickers.pdf
 
-2014-12-10 ! Wildcard 5 year SSL certificate for studentrobotics.org
+2014-12-10 * Wildcard 5 year SSL certificate for studentrobotics.org
     Expenses:sr2014:ssl-certificate     £178.74
     Liabilities:jmorse
     ; trac: #2803
+    ; receipt: ./receipts/2014/12/ssl-certificate.pdf
