@@ -2433,3 +2433,13 @@
     Liabilities:jmorse
     ; trac: #2801
     ; receipt: ./receipts/2014/12/mail-from-2014.pdf
+
+2015-02-18 ! MDF for Tech Day Flags
+    Expenses:sr2015:tech-days:flags                     £9.25
+    Liabilities:lilafisch
+    ; trac: #2870
+
+2015-02-18 ! Castors for Tech Day Flags
+    Expenses:sr2015:tech-days:flags                    £50.41
+    Liabilities:fnash
+    ; trac: #2868
