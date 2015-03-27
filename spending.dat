@@ -2443,3 +2443,8 @@
     Expenses:sr2015:tech-days:flags                    £50.41
     Liabilities:fnash
     ; trac: #2868
+
+2015-03-27 ! Trophies for SR2015
+    Expenses:sr2015:competition:prizes			£134.75
+    Liabilities:tjones
+    ; trac: #2745
