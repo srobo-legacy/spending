@@ -2444,6 +2444,11 @@
     Liabilities:fnash
     ; trac: #2868
 
+2015-03-08 ! Venue hire deposit
+    Expenses:sr2015:competition:venue-hire		£3969
+    Liabilities:Newbury Racecourse
+    ; trac: #2908
+
 2015-03-27 ! Trophies for SR2015
     Expenses:sr2015:competition:prizes			£134.75
     Liabilities:tjones
