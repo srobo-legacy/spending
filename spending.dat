@@ -2458,3 +2458,8 @@
     Expenses:sr2015:competition:arena:props		£195.54
     Liabilities:tleese
     ; trac: #2963
+
+2015-04-07 ! Accommodation in Travelodges
+    Expenses:sr2015:competition:volunteer:accommodation		£1540
+    Liabilities:rspanton
+    ; trac: #2954
