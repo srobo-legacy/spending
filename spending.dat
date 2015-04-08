@@ -2459,6 +2459,11 @@
     Liabilities:jmorse
     ; trac: #2950
 
+2015-03-30 ! Van hire for SR2015
+    Expenses:sr2015:competition:van-hire		£306
+    Liabilities:rspanton
+    ; trac: #2910
+
 2015-04-07 ! Casters for SR2015 flags
     Expenses:sr2015:competition:arena:props		£195.54
     Liabilities:tleese
