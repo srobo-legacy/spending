@@ -2453,3 +2453,8 @@
     Expenses:sr2015:competition:prizes			£134.75
     Liabilities:tjones
     ; trac: #2745
+
+2015-04-07 ! Casters for SR2015 flags
+    Expenses:sr2015:competition:arena:props		£195.54
+    Liabilities:tleese
+    ; trac: #2963
