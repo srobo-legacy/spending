@@ -2478,3 +2478,8 @@
     Expenses:sr2015:competition:volunteer:accommodation		£1540
     Liabilities:rspanton
     ; trac: #2954
+
+2015-04-09 ! SR2015 T-Shirts
+    Expenses:sr2015:clothing
+    Liabilities:tleese
+    ; trac: #2961
