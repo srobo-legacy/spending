@@ -2469,9 +2469,10 @@
     Liabilities:rspanton
     ; trac: #2904
 
-2015-04-07 ! Casters for SR2015 flags
+2015-04-07 * Casters for SR2015 flags
     Expenses:sr2015:competition:arena:props		£195.54
     Liabilities:tleese
+    ; receipt: ./receipts/2015/04/omnitrack.pdf
     ; trac: #2963
 
 2015-04-07 ! Accommodation in Travelodges
