@@ -2485,3 +2485,8 @@
     Expenses:sr2015:clothing				£111.40
     Liabilities:tleese
     ; trac: #2961
+
+2015-04-15 ! Remainder of payment to Newbury Racecourse
+    Expenses:sr2015:competition:venue-hire	£11607.00
+    Liabilities:Newbury Racecourse
+    ; trac: #2982
