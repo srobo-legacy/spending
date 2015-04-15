@@ -2449,10 +2449,11 @@
     Liabilities:Newbury Racecourse
     ; trac: #2908
 
-2015-03-27 ! Trophies for SR2015
+2015-03-27 * Trophies for SR2015
     Expenses:sr2015:competition:prizes			£134.75
     Liabilities:tjones
     ; trac: #2745
+    ; receipt: ./receipts/2015/04/trophies.pdf
 
 2015-03-30 ! Public liability insurance
     Expenses:sr2015:competition:insurance       	£205.00
