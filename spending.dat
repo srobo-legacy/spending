@@ -2490,3 +2490,8 @@
     Expenses:sr2015:competition:venue-hire	£11607.00
     Liabilities:Newbury Racecourse
     ; trac: #2982
+
+2015-04-15 ! Newbury Racecourse Plc
+    Liabilities:Newbury Racecourse		£11607
+    Assets:Barclays
+    ; cheque: 100253
