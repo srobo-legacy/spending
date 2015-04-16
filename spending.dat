@@ -2465,10 +2465,11 @@
     Liabilities:rspanton
     ; trac: #2910
 
-2015-03-30 ! Wristbands for SR2015
+2015-03-30 * Wristbands for SR2015
     Expenses:sr2015:competition:wristbands		£346
     Liabilities:rspanton
     ; trac: #2904
+    ; receipt: ./receipts/2015/04/wristbands.pdf
 
 2015-04-07 * Casters for SR2015 flags
     Expenses:sr2015:competition:arenas:props		£195.54
