@@ -2497,3 +2497,8 @@
     Liabilities:Newbury Racecourse		£11607
     Assets:Barclays
     ; cheque: 100253
+
+2015-04-18 ! SR2015 Van Hire
+    Expenses:sr2015:competition:van-hire	£160.84
+    Liabilities:rbarlow
+    ; trac: #2996
