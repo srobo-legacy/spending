@@ -2460,11 +2460,6 @@
     Liabilities:jmorse
     ; trac: #2950
 
-2015-03-30 ! Van hire for SR2015
-    Expenses:sr2015:competition:van-hire		£306
-    Liabilities:rspanton
-    ; trac: #2910
-
 2015-03-30 * Wristbands for SR2015
     Expenses:sr2015:competition:wristbands		£346
     Liabilities:rspanton
