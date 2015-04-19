@@ -2502,3 +2502,13 @@
     Expenses:sr2015:competition:van-hire	£160.84
     Liabilities:rbarlow
     ; trac: #2996
+
+2015-04-19 ! Double sided tape for sticking the arena carpet to the floor
+    Expenses:sr2015:competition:tape	£37.25
+    Liabilities:rspanton
+    ; trac: #2998
+
+2015-04-19 ! Most of the tape for the SR2015 competition
+    Expenses:sr2015:competition:tape	£242.31
+    Liabilities:rspanton
+    ; trac: #2997
