@@ -2531,3 +2531,9 @@
     Expenses:sr2015:competition:it		£2311.50
     Liabilities:rspanton
     ; trac: #3006
+
+2015-04-30 * Sound, lighting and power for SR2015
+    Expenses:sr2015:competition:production		£8100
+    Liabilities:jmorse
+    ; trac: #3007
+    ; receipt: ./receipts/2015/04/bennellick.pdf
