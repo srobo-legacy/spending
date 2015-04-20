@@ -2513,10 +2513,11 @@
     Liabilities:rspanton
     ; trac: #2997
 
-2015-04-19 ! PPL licence for 500 people event on 25th and 26th April
+2015-04-19 * PPL licence for 500 people event on 25th and 26th April
     Expenses:sr2015:competition:music-licenses	£60.42
     Liabilities:rspanton
     ; trac: #2972
+    ; receipt: ./receipts/2015/04/ppl.pdf
 
 2015-04-19 * PRS permit for 25th and 26th April for 500 people.
     Expenses:sr2015:competition:music-licenses	£59.38
