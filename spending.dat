@@ -2511,6 +2511,11 @@
     Liabilities:rbarlow
     ; trac: #2996
 
+2015-04-18 ! SR2015 Competition Travel Costs
+    Expenses:sr2015:competition:volunteer:travel	£650
+    Liabilities:TBD
+    ; trac: #2995
+
 2015-04-19 ! Double sided tape for sticking the arena carpet to the floor
     Expenses:sr2015:competition:tape	£37.25
     Liabilities:rspanton
