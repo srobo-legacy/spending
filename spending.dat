@@ -2490,10 +2490,11 @@
     ; trac: #2961
     ; receipt: ./receipts/2015/04/t-shirts.pdf
 
-2015-04-15 ! Remainder of payment to Newbury Racecourse
+2015-04-15 * Remainder of payment to Newbury Racecourse
     Expenses:sr2015:competition:venue-hire	£11607.00
     Liabilities:Newbury Racecourse
     ; trac: #2982
+    ; receipt: ./receipts/2015/04/newbury.pdf
 
 2015-04-15 ! Newbury Racecourse Plc
     Liabilities:Newbury Racecourse		£11607
