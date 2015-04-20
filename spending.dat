@@ -2522,3 +2522,8 @@
     Expenses:sr2015:competition:music-licenses	£59.38
     Liabilities:rspanton
     ; trac: #2973
+
+2015-04-20 ! IT equipment for SR2015
+    Expenses:sr2015:competition:it		£2311.50
+    Liabilities:rspanton
+    ; trac: #3006
