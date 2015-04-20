@@ -2518,10 +2518,11 @@
     Liabilities:rspanton
     ; trac: #2972
 
-2015-04-19 ! PRS permit for 25th and 26th April for 500 people.
+2015-04-19 * PRS permit for 25th and 26th April for 500 people.
     Expenses:sr2015:competition:music-licenses	£59.38
     Liabilities:rspanton
     ; trac: #2973
+    ; receipt: ./receipts/2015/04/prs.pdf
 
 2015-04-20 ! IT equipment for SR2015
     Expenses:sr2015:competition:it		£2311.50
