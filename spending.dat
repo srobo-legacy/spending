@@ -2507,10 +2507,12 @@
     ; trac: #2911
     ; receipt: ./receipts/2015/04/carpet.pdf
 
-2015-04-18 ! SR2015 Van Hire
-    Expenses:sr2015:competition:van-hire	£160.84
+2015-04-18 * SR2015 Van Hire
+    Expenses:sr2015:competition:van-hire	£152.97
     Liabilities:rbarlow
     ; trac: #2996
+    ; receipt: ./receipts/2015/04/arena_wall_van_hire.pdf
+    ; receipt: ./receipts/2015/04/arena_wall_van_fuel.jpg
 
 2015-04-18 ! SR2015 Competition Travel Costs
     Expenses:sr2015:competition:volunteer:travel	£650
