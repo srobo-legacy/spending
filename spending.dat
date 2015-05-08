@@ -2439,10 +2439,11 @@
     Liabilities:lilafisch
     ; trac: #2870
 
-2015-02-18 ! Castors for Tech Day Flags
+2015-02-18 * Castors for Tech Day Flags
     Expenses:sr2015:tech-days:flags                    £50.41
     Liabilities:fnash
     ; trac: #2868
+    ; receipt: ./receipts/2015/02/omnitrack.pdf
 
 2015-03-08 * Venue hire deposit
     Expenses:sr2015:competition:venue-hire		£3969
