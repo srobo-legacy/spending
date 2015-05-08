@@ -2553,3 +2553,8 @@
     Liabilities:jmorse
     ; trac: #3007
     ; receipt: ./receipts/2015/04/bennellick.pdf
+
+2015-05-08 ! Adornments for flags
+    Expenses:sr2015:competition:arenas:props		£42.69
+    Liabilities:abarrett-sprot
+    ; trac: #3044
