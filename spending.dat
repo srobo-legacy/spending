@@ -2490,6 +2490,12 @@
     ; trac: #2961
     ; receipt: ./receipts/2015/04/t-shirts.pdf
 
+2015-04-13 * Fixings for SR2015 Flags
+    Expenses:s2015:competition:arenas:props			£11.83
+    Liabilities:fnash
+    ; trac: #2971
+    ; receipt: ./receipts/2015/04/farnell-freddie.pdf
+
 2015-04-15 * Remainder of payment to Newbury Racecourse
     Expenses:sr2015:competition:venue-hire	£11607.00
     Liabilities:Newbury Racecourse
