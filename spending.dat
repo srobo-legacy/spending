@@ -2566,7 +2566,8 @@
     Liabilities:abarrett-sprot
     ; trac: #3044
 
-2015-05-07 ! SR2015 Arena Walls
+2015-05-07 * SR2015 Arena Walls
     Expenses:sr2015:competition:arenas:structure	£370.06
     Liabilities:rbarlow
     ; trac: #3055
+    ; receipt: ./receipts/2015/04/arena_walls.jpg
