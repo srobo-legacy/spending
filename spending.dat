@@ -2406,6 +2406,13 @@
     Assets:Barclays
     ; cheque: 100249
 
+2014-12-06 * Aluminium L-section for Kickstart
+    Expenses:sr2015:kits:mech:alu-angle               £156.29
+    Liabilities:cbaines
+    ; trac: #2662
+    ; receipt: ./receipts/2014/10/alu1.pdf
+    ; receipt: ./receipts/2014/10/alu2.pdf
+
 2014-12-10 * Li-Po caution stickers, for shipments
     Expenses:sr2014:emergency-shipping  £18.73
     Liabilities:jmorse
