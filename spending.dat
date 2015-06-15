@@ -2629,3 +2629,9 @@
     Liabilities:sr2015-cgs
     ; trac: #3061
     ; receipt: ./receipts/2015/05/cgs-2015.pdf
+
+2015-05-12 * Team budget claim for CPR
+    Expenses:sr2015:team-budget                      £53.52
+    Liabilities:sr2015-cpr
+    ; trac: #3060
+    ; receipt: ./receipts/2015/05/cpr-2015.pdf
