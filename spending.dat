@@ -2467,10 +2467,12 @@
     ; trac: #2745
     ; receipt: ./receipts/2015/04/trophies.pdf
 
-2015-03-30 ! Public liability insurance
+2015-03-30 * Public liability insurance
     Expenses:sr2015:competition:insurance       	£205.00
     Liabilities:jmorse
     ; trac: #2950
+    ; receipt: ./receipts/2015/04/insurance_sched.pdf
+    ; receipt: ./receipts/2015/04/insurance_summary.eml
 
 2015-03-30 * Wristbands for SR2015
     Expenses:sr2015:competition:wristbands		£346
