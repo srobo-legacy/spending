@@ -2605,3 +2605,9 @@
     Liabilities:rbarlow
     ; trac: #3055
     ; receipt: ./receipts/2015/04/arena_walls.jpg
+
+2015-05-13 * Team budget claim for WGS
+    Expenses:sr2015:team-budget                      £71.46
+    Liabilities:sr2015-wgs
+    ; trac: #3064
+    ; receipt: ./receipts/2015/05/wgs-2015.pdf
