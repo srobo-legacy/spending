@@ -2606,18 +2606,6 @@
     ; trac: #3055
     ; receipt: ./receipts/2015/04/arena_walls.jpg
 
-2015-05-13 * Team budget claim for WGS
-    Expenses:sr2015:team-budget                      £71.46
-    Liabilities:sr2015-wgs
-    ; trac: #3064
-    ; receipt: ./receipts/2015/05/wgs-2015.pdf
-
-2015-05-13 * Team budget claim for LSS
-    Expenses:sr2015:team-budget                      £75.00
-    Liabilities:sr2015-lss
-    ; trac: #3063
-    ; receipt: ./receipts/2015/05/lss-2015.pdf
-
 2015-05-12 * Team budget claim for LFG
     Expenses:sr2015:team-budget                      £75.00
     Liabilities:sr2015-lfg
@@ -2641,3 +2629,15 @@
     Liabilities:sr2015-twg
     ; trac: #3059
     ; receipt: ./receipts/2015/05/twg-2015.pdf
+
+2015-05-13 * Team budget claim for WGS
+    Expenses:sr2015:team-budget                      £71.46
+    Liabilities:sr2015-wgs
+    ; trac: #3064
+    ; receipt: ./receipts/2015/05/wgs-2015.pdf
+
+2015-05-13 * Team budget claim for LSS
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-lss
+    ; trac: #3063
+    ; receipt: ./receipts/2015/05/lss-2015.pdf
