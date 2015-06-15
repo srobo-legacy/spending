@@ -2504,11 +2504,27 @@
     ; trac: #2961
     ; receipt: ./receipts/2015/04/t-shirts.pdf
 
+2015-04-09 * JMorse second loan
+    Assets:Barclays                        £2000
+    Liabilities:loans:jmorse
+
+2015-04-10 * JMorse second loan
+    Assets:Barclays                        £2000
+    Liabilities:loans:jmorse
+
 2015-04-13 * Fixings for SR2015 Flags
     Expenses:sr2015:competition:arenas:props			£11.83
     Liabilities:fnash
     ; trac: #2971
     ; receipt: ./receipts/2015/04/farnell-freddie.pdf
+
+2015-04-13 * JMorse second loan
+    Assets:Barclays                        £2000
+    Liabilities:loans:jmorse
+
+2015-04-14 * JMorse second loan
+    Assets:Barclays                        £2000
+    Liabilities:loans:jmorse
 
 2015-04-15 * Remainder of payment to Newbury Racecourse
     Expenses:sr2015:competition:venue-hire	£11607.00
@@ -2516,10 +2532,18 @@
     ; trac: #2982
     ; receipt: ./receipts/2015/04/newbury.pdf
 
+2015-04-15 * JMorse second loan
+    Assets:Barclays                        £2000
+    Liabilities:loans:jmorse
+
 2015-04-15 ! Newbury Racecourse Plc
     Liabilities:Newbury Racecourse		£11607
     Assets:Barclays
     ; cheque: 100253
+
+2015-04-16 * JMorse second loan
+    Assets:Barclays                        £2000
+    Liabilities:loans:jmorse
 
 2015-04-16 * SR2015 Carpet
     Expenses:sr2015:competition:arenas:carpet	£363.93
