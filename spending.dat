@@ -2635,3 +2635,9 @@
     Liabilities:sr2015-cpr
     ; trac: #3060
     ; receipt: ./receipts/2015/05/cpr-2015.pdf
+
+2015-05-12 * Team budget claim for TWG
+    Expenses:sr2015:team-budget                     £75.00
+    Liabilities:sr2015-twg
+    ; trac: #3059
+    ; receipt: ./receipts/2015/05/twg-2015.pdf
