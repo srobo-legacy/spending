@@ -2369,13 +2369,13 @@
     ; trac: #2621
     ; receipt: ./receipts/2014/10/farnell-camcons-etc.pdf
 
-2014-10-22 Jeremy Morse
-    * Liabilities:jmorse				£3053.35
+2014-10-22=2014-11-04 * Jeremy Morse
+    Liabilities:jmorse				£3053.35
     Assets:Barclays
     ; cheque: 100246
 
-2014-10-22 Garner Osborne Circuits Ltd
-    * Liabilities:Garner Osbourne			£6443.76
+2014-10-22=2014-11-04 * Garner Osborne Circuits Ltd
+    Liabilities:Garner Osbourne			£6443.76
     Assets:Barclays
     ; cheque: 100245
 
@@ -2385,13 +2385,13 @@
     ; trac: #2660
     ; receipt: ./receipts/2014/09/Digikey-pbv4b.pdf
 
-2014-11-01 Jeremy Morse
-    * Liabilities:jmorse				£770.37
+2014-11-01=2014-11-25 * Jeremy Morse
+    Liabilities:jmorse				£770.37
     Assets:Barclays
     ; cheque: 100248
 
-2014-11-01 Richard Barlow
-    * Liabilities:rbarlow				£744.12
+2014-11-01=2014-11-06 * Richard Barlow
+    Liabilities:rbarlow				£744.12
     Assets:Barclays
     ; cheque: 100247
 
