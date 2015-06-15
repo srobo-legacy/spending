@@ -2611,3 +2611,9 @@
     Liabilities:sr2015-wgs
     ; trac: #3064
     ; receipt: ./receipts/2015/05/wgs-2015.pdf
+
+2015-05-13 * Team budget claim for LSS
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-lss
+    ; trac: #3063
+    ; receipt: ./receipts/2015/05/lss-2015.pdf
