@@ -2617,3 +2617,9 @@
     Liabilities:sr2015-lss
     ; trac: #3063
     ; receipt: ./receipts/2015/05/lss-2015.pdf
+
+2015-05-12 * Team budget claim for LFG
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-lfg
+    ; trac: #3062
+    ; receipt: ./receipts/2015/05/lfg-2015.pdf
