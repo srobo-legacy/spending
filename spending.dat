@@ -2623,3 +2623,9 @@
     Liabilities:sr2015-lfg
     ; trac: #3062
     ; receipt: ./receipts/2015/05/lfg-2015.pdf
+
+2015-05-12 * Team budget claim for CGS
+    Expenses:sr2015:team-budget                     £48.55
+    Liabilities:sr2015-cgs
+    ; trac: #3061
+    ; receipt: ./receipts/2015/05/cgs-2015.pdf
