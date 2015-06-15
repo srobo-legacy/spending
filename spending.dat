@@ -2401,8 +2401,8 @@
     ; trac: #2782
     ; receipt: ./receipts/2014/11/fedex-p1.pdf
 
-2014-11-27 Richard Barlow
-    * Liabilities:rbarlow                               £6101.07
+2014-11-27=2014-12-05 * Richard Barlow
+    Liabilities:rbarlow                               £6101.07
     Assets:Barclays
     ; cheque: 100249
 
