@@ -2536,7 +2536,7 @@
     Assets:Barclays                        £2000
     Liabilities:loans:jmorse
 
-2015-04-15 ! Newbury Racecourse Plc
+2015-04-15=2015-04-20 * Newbury Racecourse Plc
     Liabilities:Newbury Racecourse		£11607
     Assets:Barclays
     ; cheque: 100253
