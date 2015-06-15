@@ -2445,6 +2445,14 @@
     ; trac: #2868
     ; receipt: ./receipts/2015/02/omnitrack.pdf
 
+2015-03-03 * JMorse initial loan
+    Assets:Barclays                        £1950.00
+    Liabilities:loans:jmorse
+
+2015-03-05 * JMorse initial loan
+    Assets:Barclays                        £1950.00
+    Liabilities:loans:jmorse
+
 2015-03-08 * Venue hire deposit
     Expenses:sr2015:competition:venue-hire		£3969
     Liabilities:Newbury Racecourse
