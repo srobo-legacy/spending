@@ -2643,3 +2643,61 @@
     Liabilities:sr2015-lss
     ; trac: #3063
     ; receipt: ./receipts/2015/05/lss-2015.pdf
+
+2015-05-14=2015-06-15 * Team budget claim for CLY, CLY2
+    Expenses:sr2015:team-budget                     £150.00
+    Liabilities:sr2015-cly
+    ; trac: #3065
+    ; receipt: ./receipts/2015/05/cly2-2015.pdf
+
+2015-05-19=2015-06-15 * Team budget claim for CHB
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-chb
+    ; trac: #3067
+    ; receipt: ./receipts/2015/05/chb-2015.jpg
+
+2015-06-12=2015-06-15 * Team budget claim for KDE
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-kde
+    ; trac: #3081
+    ; receipt: ./receipts/2015/06/kde/Reciept 1.pdf
+    ; receipt: ./receipts/2015/06/kde/Reciept 2.pdf
+    ; receipt: ./receipts/2015/06/kde/Reciept 3.pdf
+    ; receipt: ./receipts/2015/06/kde/Reciept 4.pdf
+
+2015-06-12=2015-06-15 * Team budget claim for KEG
+    Expenses:sr2015:team-budget                      £70.90
+    Liabilities:sr2015-keg
+    ; trac: #3080
+    ; receipt: ./receipts/2015/06/keg/Amazon.co.uk - Order 203-3863000-5218748.html
+    ; receipt: ./receipts/2015/06/keg/Claim for Team KEG.eml
+    ; receipt: ./receipts/2015/06/keg/technobots.pdf
+
+2015-06-12=2015-06-15 * Team budget claim for BRN
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-brn
+    ; trac: #3079
+    ; receipt: ./receipts/2015/06/brn.pdf
+
+2015-06-12=2015-06-15 * Team budget claim for KES
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-kes
+    ; trac: #3078
+    ; receipt: ./receipts/2015/06/invoice1-KES.pdf
+    ; receipt: ./receipts/2015/06/invoice2-KES.pdf
+
+2015-06-12=2015-06-15 * Team budget claim for BPV
+    Expenses:sr2015:team-budget                      £90.72
+    Liabilities:sr2015-bpv
+    ; trac: #3077
+    ; receipt: ./receipts/2015/06/bpv-2015.pdf
+    ; receipt: ./receipts/2015/06/bpv2-2015.pdf
+
+2015-06-15 * Robot parts for team COT
+    Expenses:sr2015:team-budget                      £75.00
+    Liabilities:sr2015-cot
+    ; trac: #3082
+    ; receipt: ./receipts/2015/06/cot/11586011917026T0.pdf
+    ; receipt: ./receipts/2015/06/cot/12106012002392T0.pdf
+    ; receipt: ./receipts/2015/06/cot/SCAN0030.JPG
+    ; receipt: ./receipts/2015/06/cot/SCAN0031.JPG
