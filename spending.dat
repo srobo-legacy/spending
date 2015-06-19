@@ -2731,3 +2731,43 @@
     * Liabilities:sr2015-wgs                      £71.46
     Assets:Barclays
     ; cheque: 100259
+
+2015-06-19 ! BPV team budget payment
+    * Liabilities:sr2015-bpv                      £90.72
+    Assets:Barclays
+    ; cheque: 100260
+
+2015-06-19 ! BRN team budget payment
+    * Liabilities:sr2015-brn                      £75.00
+    Assets:Barclays
+    ; cheque: 100261
+
+2015-06-19 ! CHB team budget payment
+    * Liabilities:sr2015-chb                      £75.00
+    Assets:Barclays
+    ; cheque: 100262
+
+2015-06-19 ! CLY team budget payment
+    * Liabilities:sr2015-cly                      £150.00
+    Assets:Barclays
+    ; cheque: 100263
+
+2015-06-19 ! COT team budget payment
+    * Liabilities:sr2015-cot                      £75.00
+    Assets:Barclays
+    ; cheque: 100264
+
+2015-06-19 ! KDE team budget payment
+    * Liabilities:sr2015-kde                      £75.00
+    Assets:Barclays
+    ; cheque: 100265
+
+2015-06-19 ! KEG team budget payment
+    * Liabilities:sr2015-keg                      £70.90
+    Assets:Barclays
+    ; cheque: 100266
+
+2015-06-19 ! KES team budget payment
+    * Liabilities:sr2015-kes                      £75.00
+    Assets:Barclays
+    ; cheque: 100267
