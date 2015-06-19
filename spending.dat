@@ -2701,3 +2701,33 @@
     ; receipt: ./receipts/2015/06/cot/12106012002392T0.pdf
     ; receipt: ./receipts/2015/06/cot/SCAN0030.JPG
     ; receipt: ./receipts/2015/06/cot/SCAN0031.JPG
+
+2015-06-19 ! CGS team budget payment
+    * Liabilities:sr2015-cgs                      £48.55
+    Assets:Barclays
+    ; cheque: 100254
+
+2015-06-19 ! CPR team budget payment
+    * Liabilities:sr2015-cpr                      £53.52
+    Assets:Barclays
+    ; cheque: 100255
+
+2015-06-19 ! LFG team budget payment
+    * Liabilities:sr2015-lfg                      £75.00
+    Assets:Barclays
+    ; cheque: 100256
+
+2015-06-19 ! LSS team budget payment
+    * Liabilities:sr2015-lss                      £75.00
+    Assets:Barclays
+    ; cheque: 100257
+
+2015-06-19 ! TWG team budget payment
+    * Liabilities:sr2015-twg                      £75.00
+    Assets:Barclays
+    ; cheque: 100258
+
+2015-06-19 ! WGS team budget payment
+    * Liabilities:sr2015-twg                      £71.46
+    Assets:Barclays
+    ; cheque: 100259
