@@ -2780,7 +2780,7 @@
     ; receipt: ./receipts/2015/07/mdf-3070.pdf
 
 2015-06-24 * Robot parts for MNK
-    Expenses:sr2015:team-budget £26.69
+    Expenses:sr2015:team-budget                   £26.69
     Liabilities:sr2015-mnk
     ; trac: #3083
     ; receipt: ./receipts/2015/06/mnk-2015.pdf
