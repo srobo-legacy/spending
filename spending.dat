@@ -2771,3 +2771,9 @@
     * Liabilities:sr2015-kes                      £75.00
     Assets:Barclays
     ; cheque: 100267
+
+2015-05-28=2015-07-12 * Purchase MDF for flags
+    Expenses:sr2015:competition:arenas:props      £46.81
+    Liabilities:lilafisch
+    ; trac: #3070
+    ; receipt: ./receipts/2015/07/mdf-3070.pdf
