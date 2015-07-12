@@ -2598,10 +2598,12 @@
     ; trac: #3007
     ; receipt: ./receipts/2015/04/bennellick.pdf
 
-2015-05-08 ! Adornments for flags
-    Expenses:sr2015:competition:arenas:props		£42.69
+2015-04-29=2015-07-12 * Adornments for flags
+    Expenses:sr2015:competition:arenas:props      £43.26
     Liabilities:abarrett-sprot
     ; trac: #3044
+    ; receipt: ./receipts/2015/07/flagdeco1.pdf
+    ; receipt: ./receipts/2015/07/flagdeco2.pdf
 
 2015-05-07 * SR2015 Arena Walls
     Expenses:sr2015:competition:arenas:structure	£370.06
