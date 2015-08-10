@@ -2792,3 +2792,38 @@
     Liabilities:mcolpman
     ; trac: #3075
     ; receipt: ./receipts/2015/07/murray-trains.pdf
+
+2015-08-10 ! Tim Jones trophies repayment
+    * Liabilities:tjones                          £134.75
+    Assets:Barclays
+    ; cheque: 100275
+
+2015-08-10 ! Freddie Nash competition purchases
+    * Liabilities:fnash                          £62.24
+    Assets:Barclays
+    ; cheque: 100274
+
+2015-08-10 ! Chris Baines ALU purchase
+    * Liabilities:cbaines                          £156.29
+    Assets:Barclays
+    ; cheque: 100273
+
+2015-08-10 ! Tom Leese clothing and flags purchase
+    * Liabilities:tleese                          £306.94
+    Assets:Barclays
+    ; cheque: 100271
+
+2015-08-10 ! Lilafisch shipping and MDF purchases
+    * Liabilities:lilafisch                          £159.76
+    Assets:Barclays
+    ; cheque: 100269
+
+2015-08-10 ! AndyBS flags purchases
+    * Liabilities:abarrett-sprot                     £43.26
+    Assets:Barclays
+    ; cheque: 100268
+
+2015-08-10 ! Team MNK team budget
+    * Liabilities:sr2015-mnk                     £26.69
+    Assets:Barclays
+    ; cheque: 100276
