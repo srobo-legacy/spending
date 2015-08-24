@@ -2558,11 +2558,6 @@
     ; receipt: ./receipts/2015/04/arena_wall_van_hire.pdf
     ; receipt: ./receipts/2015/04/arena_wall_van_fuel.jpg
 
-2015-04-18 ! SR2015 Competition Travel Costs
-    Expenses:sr2015:competition:volunteer:travel	£650
-    Liabilities:TBD
-    ; trac: #2995
-
 2015-04-19 * Double sided tape for sticking the arena carpet to the floor
     Expenses:sr2015:competition:tape	£37.25
     Liabilities:rspanton
@@ -2827,3 +2822,51 @@
     * Liabilities:sr2015-mnk                     £26.69
     Assets:Barclays
     ; cheque: 100276
+
+2015-08-24 * Travel Costs:Tom Leese
+    Expenses:sr2015:competition:volunteer:travel	£17.75
+    Liabilities:tleese
+    ; trac: #2995
+    ; receipt: ./receipts/2015/08/tom-leese.pdf
+
+2015-08-24 * Travel Costs:Danny Wray
+    Expenses:sr2015:competition:volunteer:travel	£25.70
+    Liabilities:dwray
+    ; trac: #2995
+    ; receipt: ./receipts/2015/08/danny-wray.pdf
+
+2015-08-24 * Travel Costs:Michael Aldridge
+    Expenses:sr2015:competition:volunteer:travel	£31.70
+    Liabilities:maldridge
+    ; trac: #2995
+    ; receipt: ./receipts/2015/08/michael-aldridge.pdf
+
+2015-08-24 * Travel Costs:Alexandra Diem
+    Expenses:sr2015:competition:volunteer:travel	£33.75
+    Liabilities:adiem
+    ; trac: #2995
+    ; receipt: Mileage claim for 75 miles driven in car
+
+2015-08-24 * Travel Costs:Howard Buck ; Taxis for bussing volunteers between hotel and venue
+    Expenses:sr2015:competition:volunteer:travel	£160
+    Liabilities:hbuck
+    ; trac: #2995
+    ; receipt: ./receipts/2015/08/howard-buck.pdf
+
+2015-08-24 * Travel Costs:Tyler Ward
+    Expenses:sr2015:competition:volunteer:travel	£31.70
+    Liabilities:tward
+    ; trac: #2995
+    ; receipt: ./receipts/2015/08/tyler-ward.pdf
+
+2015-08-24 * Travel Costs:Andy Busse
+    Expenses:sr2015:competition:volunteer:travel	£16.80
+    Liabilities:abusse
+    ; trac: #2995
+    ; receipt: Mileage claim for 35 miles driven by motorbike
+
+2015-08-24 * Travel Costs:William Worrall
+    Expenses:sr2015:competition:volunteer:travel	£59.49
+    Liabilities:wworrall
+    ; trac: #2995
+    ; receipt: Mileage claim for 132.2 miles driven in car
