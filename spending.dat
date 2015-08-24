@@ -2700,8 +2700,8 @@
     ; receipt: ./receipts/2015/06/cot/SCAN0030.JPG
     ; receipt: ./receipts/2015/06/cot/SCAN0031.JPG
 
-2015-06-19 ! CGS team budget payment
-    * Liabilities:sr2015-cgs                      £48.55
+2015-06-19=2015-08-14 * CGS team budget payment
+    Liabilities:sr2015-cgs                      £48.55
     Assets:Barclays
     ; cheque: 100254
 
