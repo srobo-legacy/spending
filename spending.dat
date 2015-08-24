@@ -2870,3 +2870,43 @@
     Liabilities:wworrall
     ; trac: #2995
     ; receipt: Mileage claim for 132.2 miles driven in car
+
+2015-08-24 ! Cheque for AndyB travel
+    * Liabilities:abusse                         £16.80
+    Assets:Barclays
+    ; cheque: 100277
+
+2015-08-24 ! Cheque for Alex Diem travel
+    * Liabilities:adiem                         £33.75
+    Assets:Barclays
+    ; cheque: 100278
+
+2015-08-24 ! Cheque for Danny Wray travel
+    * Liabilities:dwray                         £25.70
+    Assets:Barclays
+    ; cheque: 100279
+
+2015-08-24 ! Cheque for comp taxi travel
+    * Liabilities:hbuck                         £160
+    Assets:Barclays
+    ; cheque: 100280
+
+2015-08-24 ! Cheque for Michael Aldridge travel
+    * Liabilities:maldridge                         £31.70
+    Assets:Barclays
+    ; cheque: 100281
+
+2015-08-24 ! Cheque for Tom Leese travel
+    * Liabilities:tleese                         £17.75
+    Assets:Barclays
+    ; cheque: 100282
+
+2015-08-24 ! Cheque for Tyler Ward travel
+    * Liabilities:tward                         £31.70
+    Assets:Barclays
+    ; cheque: 100283
+
+2015-08-24 ! Cheque for William Worrall travel
+    * Liabilities:wworrall                         £59.49
+    Assets:Barclays
+    ; cheque: 100284
