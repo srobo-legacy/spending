@@ -2710,11 +2710,6 @@
     Assets:Barclays
     ; cheque: 100255
 
-2015-06-19 ! LFG team budget payment
-    * Liabilities:sr2015-lfg                      £75.00
-    Assets:Barclays
-    ; cheque: 100256
-
 2015-06-19=2015-08-05 * LSS team budget payment
     Liabilities:sr2015-lss                      £75.00
     Assets:Barclays
@@ -2910,3 +2905,8 @@
     * Liabilities:wworrall                         £59.49
     Assets:Barclays
     ; cheque: 100284
+
+2015-08-24 ! LFG team budget payment (via Lilafisch)
+    * Liabilities:sr2015-lfg                      £75.00
+    Assets:Barclays
+    ; cheque: 100285
