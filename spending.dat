@@ -2582,8 +2582,9 @@
     ; trac: #2973
     ; receipt: ./receipts/2015/04/prs.pdf
 
-2015-04-20 ! IT equipment for SR2015
+2015-04-20 * IT equipment for SR2015
     Expenses:sr2015:competition:it		£2311.50
+    ; receipt: ./receipts/2015/04/itr.pdf
     Liabilities:rspanton
     ; trac: #3006
 
